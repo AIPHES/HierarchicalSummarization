@@ -1,0 +1,76 @@
+
+Topic: 1001
+Nuggets: 235
+
+Intersect / Union measure
+
+Similarity Human ML <> Human KC: 0.25941900914032723
+Similarity Human ML <> Human JS: 0.2645156520628005
+Similarity Human ML <> Human Joint Tupels: 0.31718003572572695
+Similarity Human ML <> Human Gold: 0.471026666895449
+Similarity Human ML <> Human Gold Optimized: 0.480786406414104
+Similarity Human KC <> Human JS: 0.22611852140880387
+Similarity Human KC <> Human Joint Tupels: 0.33817883507951607
+Similarity Human KC <> Human Gold: 0.37041292014157357
+Similarity Human KC <> Human Gold Optimized: 0.38362257263173943
+Similarity Human JS <> Human Joint Tupels: 0.2837521580544107
+Similarity Human JS <> Human Gold: 0.5268856306886052
+Similarity Human JS <> Human Gold Optimized: 0.5837886779821005
+Similarity Human Joint Tupels <> Human Gold: 0.419652279000616
+Similarity Human Joint Tupels <> Human Gold Optimized: 0.39850674751604576
+Similarity Human Gold <> Human Gold Optimized: 0.8387577775537103
+Similarity Randoms (mean of 10 random networks): 0.11435779424669106
+Similarity Human ML <> Randoms (mean of 10 random networks): 0.12452377962044255
+Similarity Human KC <> Randoms (mean of 10 random networks): 0.13069579825636546
+Similarity Human JS <> Randoms (mean of 10 random networks): 0.1189477783871836
+Similarity Human Joint Tupels <> Randoms (mean of 10 random networks): 0.15883086937835705
+Similarity Human Gold <> Randoms (mean of 10 random networks): 0.12852097083788713
+Similarity Human Gold Optimized <> Randoms (mean of 10 random networks): 0.12640285296979228
+
+Network Stats Human ML:
+Subtrees: 14
+Subtree depths: 4 2 3 3 2 8 4 2 2 3 2 2 3 2 
+Average Depth 3.0
+Total Bubbles 185
+Average Branching 3.0
+
+Network Stats Human KC:
+Subtrees: 13
+Subtree depths: 5 2 8 5 4 4 7 3 2 2 2 2 3 
+Average Depth 3.769230769230769
+Total Bubbles 221
+Average Branching 3.3015873015873014
+
+Network Stats Human JS:
+Subtrees: 5
+Subtree depths: 8 5 8 2 1 
+Average Depth 4.8
+Total Bubbles 204
+Average Branching 2.313953488372093
+
+Network Stats Human Joint Tupels:
+Subtrees: 35
+Subtree depths: 1 2 2 3 3 3 1 4 2 2 1 2 3 4 2 2 2 2 2 2 2 1 2 1 2 2 2 2 2 2 2 2 2 2 2 
+Average Depth 2.085714285714286
+Total Bubbles 103
+Average Branching 1.619047619047619
+
+Network Stats Human Gold:
+Subtrees: 25
+Subtree depths: 4 7 4 3 7 3 3 4 4 5 1 2 1 1 2 1 2 3 1 2 1 2 1 1 1 
+Average Depth 2.64
+Total Bubbles 203
+Average Branching 2.4383561643835616
+
+Network Stats Human Gold Optimized:
+Subtrees: 19
+Subtree depths: 3 7 4 8 3 3 4 4 4 2 3 2 2 1 1 1 1 1 1 
+Average Depth 2.8947368421052633
+Total Bubbles 203
+Average Branching 2.453333333333333
+
+Network Stats Random Networks:
+Subtrees: 7.4
+Average Depth 4.851351351351352
+Total Bubbles 214.7
+Average Branching 2.617424242424242

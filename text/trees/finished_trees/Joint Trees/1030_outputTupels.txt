@@ -1,0 +1,577 @@
+
+D:/Mega/DIP_Tool/Finished_trees/JS/Topic_1030_school_punishment_policy_DIPTool_JS.txt, Nuggets: 796
+
+
+-Same elements of 3 annotators-
+
+PARENT
+44 - Schools must have a written behaviour policy.
+82 - Each local board shall publish all the policies mandated by this subsection and make them available to each student and his parent or guardian at the beginning of each school year.
+PARENT
+459 - There is no legislation concerning corporal punishment by parents in Victoria, however, there is a common law defence for parental use of corporal punishment.
+461 - Victorian common law allows parents to administer corporal punishment to children in their charge provided the punishment is neither unreasonable nor excessive.
+PARENT
+111 - [n] o person shall administer corporal punishment, or subject a student to psychological or physical abuse at any educational institution
+130 - Punishment shall not be inflicted on students for failure or inability to learn or for trivial breaches of school discipline;
+PARENT
+625 - Students are responsible for completing all work missed during absences.
+626 - Students missing school as a result of any suspension shall be counted absent and shall be given failing grades in those subjects for the days missed with no make-up work allowed.
+PARENT
+644 - The possession of guns, knives, or illegal drugs by students or anyone else on school property or within 1000 feet of the school is subject to both school and criminal penalties.
+645 - At no time and under no circumstances may students have the above listed items on their person, in their lockers, in vehicles, on school grounds, in the school building, or in their possession.
+PARENT
+238 - Redress should always include access to legal remedies.
+239 - This redress could be facilitated by creation of an administrative ombudsman, charged with overseeing compliance with state and local regulations on corporal punishment.
+PARENT
+483 - child was subjected to bulling by other students that the principal failed to stop.
+484 - He was then punished so serverly we had to get a court order for the Marion County School district to quit.
+PARENT
+49 - Even teaching of high quality can sometimes be subverted by disruptive pupils who do not want to learn.
+52 - Provided the teacher has done everything possible to engage such pupils, the quality of teaching should not be penalised unfairly.
+PARENT
+294 - Practices and policies that we were implementing on drug laws have really taken stance in the schools.
+295 - Things like having mandatory minimum sentencing laws, or having three strikes and you 're out, or the idea of aggressively policing minor offenses -- these are things that were happening as a result of the war on drugs and we were implementing these processes in schools.
+PARENT
+138 - Academic punishment, which is defined as reducing credit previously earned, shall not be used.
+139 - A student 's academic grade shall be based solely on his/her achievement.
+PARENT
+650 - Discipline problems on the school bus will be dealt with by the principal of the school responsible for the student in accordance with State Laws and Parish Regulations.
+657 - At no time shall the bus operator assume authority for suspending bus privileges or taking such disciplinary action as requiring a pupil to kneel or inflicting corporal punishment.
+PARENT
+255 - Data should be collected by incident as well as by pupil punished per year.
+256 - Data should also be collected on the underlying infraction that leads to corporal punishment.
+PARENT
+0 - Swats will be given and witnessed by certified personnel in a school office, room, or other place out of the presence of other students.
+1 - No more than 3 swats will be given in a school day.
+PARENT
+118 - Educators have full authority and responsibility to correct the behaviour of learners whenever such correction is necessary at the school.
+117 - Every educator is responsible for discipline at all times at the school and at school related activities.
+
+14 tupels in total
+
+-Same elements of 2 annotators-
+
+PARENT
+90 - Any pupil who is tardy will be required to present a note or tardiness form as required by the school, signed by the parent and stating the date and reason for the tardiness.
+92 - Any child who is not present in the classroom at the late bell shall be considered tardy.
+PARENT
+49 - Even teaching of high quality can sometimes be subverted by disruptive pupils who do not want to learn.
+52 - Provided the teacher has done everything possible to engage such pupils, the quality of teaching should not be penalised unfairly.
+PARENT
+44 - Schools must have a written behaviour policy.
+63 - Many schools incorporate a student code of conduct in which it expects its students to follow.
+PARENT
+111 - [n] o person shall administer corporal punishment, or subject a student to psychological or physical abuse at any educational institution
+130 - Punishment shall not be inflicted on students for failure or inability to learn or for trivial breaches of school discipline;
+PARENT
+111 - [n] o person shall administer corporal punishment, or subject a student to psychological or physical abuse at any educational institution
+162 - No principal, assistant principal, teacher, substitute teacher, any other school system employee, or volunteer may use corporal punishment to discipline any student.
+PARENT
+322 - No-fault punishment schemes for school discipline are one area that needs reform NOW.
+320 - Students SHOULD be provided with an opportunity to demonstrate or prove their guilt or innocence with respect to an alleged or actual fighting incident.
+PARENT
+ROOT
+378 - Courts will not usually interfere with the way a school disciplines or punishes its students.
+PARENT
+650 - Discipline problems on the school bus will be dealt with by the principal of the school responsible for the student in accordance with State Laws and Parish Regulations.
+658 - If the conduct of a pupil becomes such that his removal from the bus becomes essential, the driver shall discharge the pupil at the pupil 's regular stop.
+PARENT
+98 - Any disciplinary measure taken by an organisation, school or children 's home must be in the interest of the child in accordance with internal regulations that are visibly displayed in the establishment.
+106 - Disciplinary measures concerning the child can only be taken in accordance with the child 's dignity, and under no circumstances are physical punishments allowed, or punishments which relate to the child 's physical and mental development or which may affect the child 's emotional status
+PARENT
+333 - Some of our school board members felt that, if it were used correctly, as it would be, corporal punishment would be yet another deterrent to keep students from misbehaving,
+329 - Many teachers found the regulations too restrictive and actively but unsuccessfully campaigned to extend the freedom of teachers in the area of corporal punishment.
+PARENT
+403 - first tardy might be a written or verbal warning.
+405 - A second, third or fourth tardy might mean you have to stay after class.
+PARENT
+496 - When you have to use physical force to teach a student what you expect from them, you have taught them that physical force is a valid option in getting others to do what you expect them to do.
+775 - The use of corporal punishment anywhere promotes bullying-even when, ironically, it is used to punish bullies.
+PARENT
+481 - students of color were more likely to be suspended and expelled than their white peers
+717 - race, gender, and ethnicity of the students who received corporal punishment.
+PARENT
+224 - The use of corporal punishment in schools promotes a very precarious message-that violence is an acceptable phenomenon in our society.
+229 - The use of corporal punishment in the school reinforces the notion that physical aggression is an acceptable and effective means of eliminating unwanted behavior in our society.
+PARENT
+111 - [n] o person shall administer corporal punishment, or subject a student to psychological or physical abuse at any educational institution
+105 - In no case shall the school administrator, teacher or individual engaged in child care exercising special parental authority inflict corporal punishment upon the child.
+CLUSTER
+363 - Corporal punishment is the intentional infliction of physical pain upon the body of a student as a disciplinary measure.
+377 - corporal punishment is the intentional infliction of physical pain as a method of changing behavior
+PARENT
+391 - Alternatives to corporal punishment include emphasizing positive behaviors of students, realistic rules which are enforced consistently, parent/teacher conferences about student behavior, use of staff such as school psychologists and counselors, detentions, and in-school suspension.
+343 - school districts have implemented positive, effective, safe, and humane strategies to help students control and improve behavior in school.
+PARENT
+453 - A young student of that school (Walden) was beaten so bad by the principal, Mr. Brian McKamy that it left bruises and welts on his butt.
+455 - Her being held down to be paddled therefore may be seen at the state prosecution level as an unauthorized punishment
+PARENT
+629 - Periodic locker inspections will be held, and unauthorized items will be removed.
+630 - Search of lockers will be done if it is believed that dangerous or unlawful items are in the lockers.
+PARENT
+690 - Corporal punishment as defined herein, shall be administered only by a principal, assistant principal, or teacher after having obtained permission from the principal.
+285 - They are also required to have a qualified teacher or administrator present, and must notify the parent of any punishment that takes place.
+PARENT
+558 - There is no shortage of advice on what ought to be included in school codes of conduct.
+595 - Schwartz (1997) has suggested that schools need a safety committee and coordinator.
+PARENT
+378 - Courts will not usually interfere with the way a school disciplines or punishes its students.
+565 - Teen courts, where students are involved in school discipline teams, may be one answer
+CLUSTER
+144 - Corporal punishment is a discipline method in which a supervising adult deliberately inflicts pain upon a child in response to a child 's unacceptable behavior and/or inappropriate language.
+377 - corporal punishment is the intentional infliction of physical pain as a method of changing behavior
+CLUSTER
+363 - Corporal punishment is the intentional infliction of physical pain upon the body of a student as a disciplinary measure.
+466 - Corporal punishment is defined as the use of physical force towards a child for the purpose of control and/or correction, and as a disciplinary penalty inflicted on the body with the intention of causing some degree of pain or discomfort, however mild.
+PARENT
+459 - There is no legislation concerning corporal punishment by parents in Victoria, however, there is a common law defence for parental use of corporal punishment.
+461 - Victorian common law allows parents to administer corporal punishment to children in their charge provided the punishment is neither unreasonable nor excessive.
+PARENT
+578 - alternate schools for troubled youth can be effective if they are adequately supported.
+579 - The Southwest Regional Educational Laboratory (1995) has identified similar characteristics of the effective alternate schools, including a student choice to be involved, a focus on the whole student, caring relationships, an expanded role for the teacher into caregiving, a sense of community, high expectations of students, small size, relative autonomy, comprehensive program, counseling, safe environment, separation from traditional schooling, links to agency services.
+PARENT
+110 - No person may administer corporal punishment at a school to a learner;
+339 - No person employed or engaged as a teacher, principal, administrator, non-licensed school employee, or bus driver in a public or chartered nonpublic school may inflict or cause to be inflicted corporal punishment as a means of discipline upon a pupil attending such school.
+PARENT
+63 - Many schools incorporate a student code of conduct in which it expects its students to follow.
+67 - Writing policy and procedures for schools is a part of an administrator 's job.
+PARENT
+247 - Provide new teachers with adequate resources for learning to manage classrooms,
+249 - Provide new teachers with extensive training on appropriate discipline techniques, including positive behavior models.
+PARENT
+0 - Swats will be given and witnessed by certified personnel in a school office, room, or other place out of the presence of other students.
+1 - No more than 3 swats will be given in a school day.
+PARENT
+44 - Schools must have a written behaviour policy.
+82 - Each local board shall publish all the policies mandated by this subsection and make them available to each student and his parent or guardian at the beginning of each school year.
+PARENT
+731 - All students suspended for 365 days or expelled may, after 180 calendar days from the date of the beginning of the student 's suspension or expulsion, request in writing readmission to the local school administrative unit.
+732 - decision on readmission under this subsection shall be issued within 30 days of the petition.
+PARENT
+146 - Many other methods of discipline are effective in promoting self-control, eliminating undesirable behaviors and promoting desired behaviors in children.
+588 - "All of the reviews and meta-analyses of boot camps and wilderness camps indicate that the temporary  shock treatment '' approach is ineffective in correcting youth behaviours."""
+PARENT
+378 - Courts will not usually interfere with the way a school disciplines or punishes its students.
+310 - several courts have determined that the district policy may also apply to student behavior off school grounds that directly interferes with the operation of the school or endangers the safety of other students or staff.
+PARENT
+201 - Out-of-School suspension is a disciplinary consequence for more serious offenses.
+296 - Out of school suspensions were used more than anything else, rather than in-school suspension, rather than parent-teacher conferences.
+CLUSTER
+208 - Corporal punishment refers to intentional application of physical pain as a method of changing behavior.
+363 - Corporal punishment is the intentional infliction of physical pain upon the body of a student as a disciplinary measure.
+PARENT
+ROOT
+436 - "In schools, physical punishment is usually described as  corporal punishment ''."""
+PARENT
+362 - No school plan for managing student behavior may authorize the use of corporal punishment.
+381 - No employee or agent of the school district shall cause corporal punishment to be inflicted upon a student to reform unacceptable conduct or as a penalty for unacceptable conduct.
+PARENT
+44 - Schools must have a written behaviour policy.
+60 - Students of all ages have begun to carry cell phones and a policy should be in place to handle this according to your district 's stance.
+PARENT
+44 - Schools must have a written behaviour policy.
+299 - A copy of the discipline policy shall be provided to the pupil and parent or legal guardian of every pupil enrolled in the district at the beginning of each school year.
+PARENT
+692 - Physical restraint is the use of bodily force to limit a student 's freedom of movement.
+693 - Physical restraint will be used with extreme caution and only in emergency situations, after other less intrusive alternatives have failed or been deemed inappropriate.
+PARENT
+301 - Acts of violence shall include but not be limited to exertion of physical force by a student with the intent to do serious bodily harm to another person while on school property, including a school bus, or while involved in school activities.
+726 - The student exhibits violent behavior.
+PARENT
+118 - Educators have full authority and responsibility to correct the behaviour of learners whenever such correction is necessary at the school.
+117 - Every educator is responsible for discipline at all times at the school and at school related activities.
+CLUSTER
+208 - Corporal punishment refers to intentional application of physical pain as a method of changing behavior.
+466 - Corporal punishment is defined as the use of physical force towards a child for the purpose of control and/or correction, and as a disciplinary penalty inflicted on the body with the intention of causing some degree of pain or discomfort, however mild.
+PARENT
+90 - Any pupil who is tardy will be required to present a note or tardiness form as required by the school, signed by the parent and stating the date and reason for the tardiness.
+649 - Excessive tardies will be dealt with as a discipline problem in accordance with state policies.
+PARENT
+ROOT
+793 - Corporal punishment means the deliberate infliction of physical pain by hitting, paddling, spanking, slapping, or any other physical force used as a means of discipline.
+PARENT
+246 - Support measures to improve school discipline through the implementation of positive behavior and restorative justice methods,
+252 - Establish or strengthen policies that support the prohibition of corporal punishment, and conduct active advocacy campaigns to end the practice.
+CLUSTER
+363 - Corporal punishment is the intentional infliction of physical pain upon the body of a student as a disciplinary measure.
+793 - Corporal punishment means the deliberate infliction of physical pain by hitting, paddling, spanking, slapping, or any other physical force used as a means of discipline.
+PARENT
+ROOT
+377 - corporal punishment is the intentional infliction of physical pain as a method of changing behavior
+CLUSTER
+363 - Corporal punishment is the intentional infliction of physical pain upon the body of a student as a disciplinary measure.
+436 - "In schools, physical punishment is usually described as  corporal punishment ''."""
+PARENT
+612 - Northampton County Schools does have a policy concerning corporal punishment.
+613 - The parents of students who attend Northampton County Public Schools voiced their concerns on a social networking site after receiving a memo about corporal punishment in the school system.
+PARENT
+203 - Long term suspension should be used as a last resort
+706 - If the offense leading to the long?term suspension occurs during the final quarter of the school year, the exclusion may include a period up to the remainder of the school year in which the offense was committed and the first semester of the following school year.
+PARENT
+162 - No principal, assistant principal, teacher, substitute teacher, any other school system employee, or volunteer may use corporal punishment to discipline any student.
+131 - A principal teacher who inflicts corporal punishment on any student or causes any student to inflict corporal punishment on another student shall be reported for action to the Director of their non-government Managing Authority.
+PARENT
+258 - Students using blogs are expected to treat blogspaces as classroom spaces.
+259 - Speech that is inappropriate for class is not appropriate for your blog.
+PARENT
+448 - The appeal does not question the overall legality of corporal punishment in schools, but it contends that students should have stronger protection of the type known as substantive due process, which protects against arbitrary and unreasonable governmental conduct affecting fundamental constitutional liberties.
+447 - corporal punishment of public school students is only a deprivation of substantive due process rights when it is arbitrary, capricious, or wholly unrelated to the legitimate state goal of maintaining an atmosphere conducive to learning.
+PARENT
+105 - In no case shall the school administrator, teacher or individual engaged in child care exercising special parental authority inflict corporal punishment upon the child.
+131 - A principal teacher who inflicts corporal punishment on any student or causes any student to inflict corporal punishment on another student shall be reported for action to the Director of their non-government Managing Authority.
+PARENT
+ROOT
+15 - The removal of corporal punishment and the elimination of other dehumanising practices in our schools are necessary steps towards the development of a culture of human rights in our country.
+PARENT
+146 - Many other methods of discipline are effective in promoting self-control, eliminating undesirable behaviors and promoting desired behaviors in children.
+198 - Detention is a staple in many school discipline plans.
+PARENT
+23 - practical strategies for discipline are given which do not include corporal punishment.
+24 - using alternatives to corporal punishment does not mean that every teacher must approach discipline in the same way.
+CLUSTER
+466 - Corporal punishment is defined as the use of physical force towards a child for the purpose of control and/or correction, and as a disciplinary penalty inflicted on the body with the intention of causing some degree of pain or discomfort, however mild.
+793 - Corporal punishment means the deliberate infliction of physical pain by hitting, paddling, spanking, slapping, or any other physical force used as a means of discipline.
+PARENT
+150 - parent s prohibition of corporal punishment may be revoked at any time by submitting a separate signed, written statement.
+154 - Such written and signed statement must be provided to the District each year in order to continue the prohibition of such punishment.
+PARENT
+105 - In no case shall the school administrator, teacher or individual engaged in child care exercising special parental authority inflict corporal punishment upon the child.
+103 - Any person, director, teacher or employee of a school, organisation or children 's home who is found to have participated in or assisted an act that put the safety of a child in danger will be removed from their post and will be prosecuted according to the penal code.
+PARENT
+63 - Many schools incorporate a student code of conduct in which it expects its students to follow.
+45 - It should set out underlying values and principles, a code of conduct, how good behaviour is promoted, the sanctions that apply to poor behaviour, the arrangements for supporting staff and pupils, and the way in which the application of the policy is monitored and reviewed.
+PARENT
+751 - Making unruly students do push-ups, run laps, or perform other physical acts that cause pain or discomfort.
+760 - The point at which performing push-ups or running laps becomes corporal punishment is not clear.
+CLUSTER
+146 - Many other methods of discipline are effective in promoting self-control, eliminating undesirable behaviors and promoting desired behaviors in children.
+189 - Most schools have found more enlightened and effective methods for dealing with disciplinary issues.
+PARENT
+255 - Data should be collected by incident as well as by pupil punished per year.
+256 - Data should also be collected on the underlying infraction that leads to corporal punishment.
+PARENT
+522 - Zero tolerance policies are poorly understood by many Canadians and educators.
+527 - Participants struggled to develop a consistent definition of zero-tolerance policies.
+PARENT
+171 - Among parents with minor children at home, 50 percent report that they sometimes spank their child, while 45 percent do not.
+288 - Many parents who use this type of punishment in their homes actually prefer it to be utilized at school.
+PARENT
+ROOT
+292 - Whether someone believes that corporal punishment will prevent the spoiling of a child or cause them severe emotional harm, they both have one thing in mind and that is the best interest for the child.
+PARENT
+284 - Only by a teacher, principal, or assistant principal of the same gender of the student and who has been trained in the administration of corporal punishment
+285 - They are also required to have a qualified teacher or administrator present, and must notify the parent of any punishment that takes place.
+PARENT
+597 - Gluckman (1996) suggests that dress codes can reduce gang activity in the school.
+598 - Despite the mixed evidence, school uniforms and dress codes appear to be making a comeback.
+PARENT
+160 - Physical force or restraint which is used by a school official to protect someone from physical injury, to disarm a student, or to protect property from damage is not considered corporal punishment.
+692 - Physical restraint is the use of bodily force to limit a student 's freedom of movement.
+PARENT
+186 - Most leading professional associations oppose corporal punishment in all its forms.
+158 - The American Academy of Family Physicians is opposed to corporal punishment in schools.
+PARENT
+ROOT
+144 - Corporal punishment is a discipline method in which a supervising adult deliberately inflicts pain upon a child in response to a child 's unacceptable behavior and/or inappropriate language.
+PARENT
+294 - Practices and policies that we were implementing on drug laws have really taken stance in the schools.
+628 - Students who purchase permits will be subject to random drug screening.
+PARENT
+767 - In extreme circumstances, the principal of a school may make a submission to an appropriate authority, or to other schools, recommending the permanent exclusion of a student from the registration system of which the school is a member, or from other schools.
+769 - If the principal is conducting both the investigative and decision-making stages, he or she must be reasonable and objective.
+PARENT
+625 - Students are responsible for completing all work missed during absences.
+626 - Students missing school as a result of any suspension shall be counted absent and shall be given failing grades in those subjects for the days missed with no make-up work allowed.
+CLUSTER
+162 - No principal, assistant principal, teacher, substitute teacher, any other school system employee, or volunteer may use corporal punishment to discipline any student.
+339 - No person employed or engaged as a teacher, principal, administrator, non-licensed school employee, or bus driver in a public or chartered nonpublic school may inflict or cause to be inflicted corporal punishment as a means of discipline upon a pupil attending such school.
+PARENT
+11 - Where complaints concern an existing school policy, such as pupil behaviour and discipline: Resolution should be sought using the remedies set out in these policies.
+12 - Where these remedies are not adequate or appropriate the governing body complaints procedure may need to be used.
+PARENT
+359 - While every other segment of our civil society has banned the practice, including our nation 's military, jails and prisons, 19 states continue to allow corporal punishment in their public schools.
+280 - Thirteen of our states are using the method of physical punishment in our schools today.
+PARENT
+339 - No person employed or engaged as a teacher, principal, administrator, non-licensed school employee, or bus driver in a public or chartered nonpublic school may inflict or cause to be inflicted corporal punishment as a means of discipline upon a pupil attending such school.
+131 - A principal teacher who inflicts corporal punishment on any student or causes any student to inflict corporal punishment on another student shall be reported for action to the Director of their non-government Managing Authority.
+PARENT
+351 - Civil libertarians continue to criticize zero tolerance policies, arguing that they target minority and disadvantaged students.
+354 - policies must consider special needs for students entitled to special consideration under the Individuals with Disabilities Educational Act.
+CLUSTER
+144 - Corporal punishment is a discipline method in which a supervising adult deliberately inflicts pain upon a child in response to a child 's unacceptable behavior and/or inappropriate language.
+436 - "In schools, physical punishment is usually described as  corporal punishment ''."""
+PARENT
+143 - Students may be detained before or after school hours for up to one hour.
+142 - Students in detention must be attended by a teacher, administrator, or teacher assistant.
+PARENT
+59 - Teachers need to respect students and students need to respect teachers.
+72 - Children must learn to accept limits and authority.
+PARENT
+580 - Alternate schools were often a big part of these programs.
+578 - alternate schools for troubled youth can be effective if they are adequately supported.
+PARENT
+105 - In no case shall the school administrator, teacher or individual engaged in child care exercising special parental authority inflict corporal punishment upon the child.
+383 - Employees who violate the provisions of this policy shall be subject to disciplinary action as appropriate.
+PARENT
+462 - Twenty-three countries have prohibited corporal punishment in all settings in legislation.
+463 - Two other countries have prohibited corporal punishment by Supreme Court ruling.
+PARENT
+374 - Every student has the right to be happy and safe while at school.
+375 - both teachers and students have the right to operate in a school environment free from unsafe behaviour and harassment.
+PARENT
+452 - Every country in the world has banned corporal punishment in the schools,
+462 - Twenty-three countries have prohibited corporal punishment in all settings in legislation.
+PARENT
+ROOT
+363 - Corporal punishment is the intentional infliction of physical pain upon the body of a student as a disciplinary measure.
+PARENT
+194 - A school administrator 's job in the realm of student discipline is much like the combination of judge and jury.
+195 - A good school administrator will weigh all evidence and make what they feel like is the best possible way to deter the student from making the same mistake twice.
+PARENT
+111 - [n] o person shall administer corporal punishment, or subject a student to psychological or physical abuse at any educational institution
+381 - No employee or agent of the school district shall cause corporal punishment to be inflicted upon a student to reform unacceptable conduct or as a penalty for unacceptable conduct.
+PARENT
+351 - Civil libertarians continue to criticize zero tolerance policies, arguing that they target minority and disadvantaged students.
+792 - "In contrast to zero tolerance policies, RJ is  designed to reconcile the perpetrators with the victims, creating a feeling of resolution and increasing a sense of safety."""
+PARENT
+ROOT
+364 - Reasonable force that is necessary to protect oneself or others is not considered corporal punishment.
+CLUSTER
+156 - Alternative methods of behavioral management have proved more effective than corporal punishment
+779 - There are many more effective means of discipline which promote self-control and the development of appropriate socially adaptive behaviors in constructive, non-harmful ways.
+PARENT
+483 - child was subjected to bulling by other students that the principal failed to stop.
+484 - He was then punished so serverly we had to get a court order for the Marion County School district to quit.
+PARENT
+605 - School policies may be contrary to existing law, or there may be no policies that govern the present situation.
+502 - Many schools deferred to local law entirely and did not publish other policies that were unique to the school.
+PARENT
+413 - Generally acts of indiscipline can be put into the following categories and they would be regarded as totally unacceptable.
+411 - BETWEEN THE CHILD AND THE GENERAL AUTHORITY OF THE SCHOOL.
+PARENT
+609 - Rules relative to corporal punishment.
+608 - There were strict rules about how corporal punishment should be given.
+PARENT
+644 - The possession of guns, knives, or illegal drugs by students or anyone else on school property or within 1000 feet of the school is subject to both school and criminal penalties.
+645 - At no time and under no circumstances may students have the above listed items on their person, in their lockers, in vehicles, on school grounds, in the school building, or in their possession.
+PARENT
+146 - Many other methods of discipline are effective in promoting self-control, eliminating undesirable behaviors and promoting desired behaviors in children.
+196 - A verbal warning should include what your expectations are concerning that behavior and the next step of action should they violate the same policy a second time.
+CLUSTER
+208 - Corporal punishment refers to intentional application of physical pain as a method of changing behavior.
+793 - Corporal punishment means the deliberate infliction of physical pain by hitting, paddling, spanking, slapping, or any other physical force used as a means of discipline.
+PARENT
+364 - Reasonable force that is necessary to protect oneself or others is not considered corporal punishment.
+160 - Physical force or restraint which is used by a school official to protect someone from physical injury, to disarm a student, or to protect property from damage is not considered corporal punishment.
+PARENT
+301 - Acts of violence shall include but not be limited to exertion of physical force by a student with the intent to do serious bodily harm to another person while on school property, including a school bus, or while involved in school activities.
+634 - Threatening a teacher.
+PARENT
+ROOT
+208 - Corporal punishment refers to intentional application of physical pain as a method of changing behavior.
+PARENT
+686 - If the parent, tutor, or legal guardian fails to attend the required conference within five (5) school days of notification, the truancy laws shall be effective.
+652 - Other penalties include: an additional fine of up to $ 15 per day the child has been found unexcused from school, community service, and driver s licenses of truant students can be suspended.
+CLUSTER
+144 - Corporal punishment is a discipline method in which a supervising adult deliberately inflicts pain upon a child in response to a child 's unacceptable behavior and/or inappropriate language.
+793 - Corporal punishment means the deliberate infliction of physical pain by hitting, paddling, spanking, slapping, or any other physical force used as a means of discipline.
+PARENT
+171 - Among parents with minor children at home, 50 percent report that they sometimes spank their child, while 45 percent do not.
+432 - Judges have made rules about physical punishment of children by their parents where punishment has been so severe that it amounted to criminal assault.
+CLUSTER
+399 - Schools often use a wooden or fiberglass paddle for their spankings.
+495 - The instrument often used in school spankings is a wooden or fiber-glass paddle.
+PARENT
+248 - Until corporal punishment has been banned, institute a regular statistical review process to ensure that minorities do not receive corporal punishment at disproportionate rates.
+251 - Provide funding for additional academic research on the effects of school-based corporal punishment.
+PARENT
+138 - Academic punishment, which is defined as reducing credit previously earned, shall not be used.
+139 - A student 's academic grade shall be based solely on his/her achievement.
+PARENT
+71 - Advocates for the retention of corporal punishment claim it is an effective deterrent in the class room.
+74 - Disciplinary codes are ineffective.
+PARENT
+157 - Physical force or constraint by a school official may be required in a limited number of carefully selected circumstances to protect students and staff from physical injury, to disarm a student, or to prevent property damage.
+165 - Use of reasonable force consistent with Section B of this policy is not considered corporal punishment.
+PARENT
+ROOT
+80 - It is the means of corporal punishment - caning, beating, slapping, strapping and so on - which seem to draw the most attention.
+PARENT
+761 - ZT policies represent an attempt at prevention, intervention, and avoidance of blame.
+522 - Zero tolerance policies are poorly understood by many Canadians and educators.
+PARENT
+186 - Most leading professional associations oppose corporal punishment in all its forms.
+386 - National PTA staunchly opposes violence of any kind in schools.
+CLUSTER
+377 - corporal punishment is the intentional infliction of physical pain as a method of changing behavior
+436 - "In schools, physical punishment is usually described as  corporal punishment ''."""
+CLUSTER
+436 - "In schools, physical punishment is usually described as  corporal punishment ''."""
+793 - Corporal punishment means the deliberate infliction of physical pain by hitting, paddling, spanking, slapping, or any other physical force used as a means of discipline.
+PARENT
+301 - Acts of violence shall include but not be limited to exertion of physical force by a student with the intent to do serious bodily harm to another person while on school property, including a school bus, or while involved in school activities.
+633 - Committing immoral or vicious practices or of conduct or habits injurious to his/her associates.
+PARENT
+413 - Generally acts of indiscipline can be put into the following categories and they would be regarded as totally unacceptable.
+412 - BETWEEN THE CHILD AND HIS/HER SCHOOLWORK OR HOMEWORK.
+CLUSTER
+284 - Only by a teacher, principal, or assistant principal of the same gender of the student and who has been trained in the administration of corporal punishment
+690 - Corporal punishment as defined herein, shall be administered only by a principal, assistant principal, or teacher after having obtained permission from the principal.
+CLUSTER
+144 - Corporal punishment is a discipline method in which a supervising adult deliberately inflicts pain upon a child in response to a child 's unacceptable behavior and/or inappropriate language.
+466 - Corporal punishment is defined as the use of physical force towards a child for the purpose of control and/or correction, and as a disciplinary penalty inflicted on the body with the intention of causing some degree of pain or discomfort, however mild.
+CLUSTER
+144 - Corporal punishment is a discipline method in which a supervising adult deliberately inflicts pain upon a child in response to a child 's unacceptable behavior and/or inappropriate language.
+208 - Corporal punishment refers to intentional application of physical pain as a method of changing behavior.
+PARENT
+294 - Practices and policies that we were implementing on drug laws have really taken stance in the schools.
+656 - It is not the intent of the school system to punish students who are harmfully involved with drugs, but rather to recognize it as an illness and to refer those students to proper treatment resources for rehabilitation.
+PARENT
+146 - Many other methods of discipline are effective in promoting self-control, eliminating undesirable behaviors and promoting desired behaviors in children.
+200 - Saturday school can be used as both a disciplinary consequence and academic assistance for struggling students.
+PARENT
+650 - Discipline problems on the school bus will be dealt with by the principal of the school responsible for the student in accordance with State Laws and Parish Regulations.
+651 - Principals will take action necessary to insure operational safety of the buses.
+PARENT
+721 - Only the superintendent has the authority to long?term suspend a student.
+722 - superintendent or board shall adopt the hearing officer 's or panel 's factual determinations unless they are not supported by substantial evidence in the record.
+PARENT
+713 - Only a teacher, principal, or assistant principal may administer corporal punishment and may do so only in the presence of a principal, assistant principal, or teacher who shall be informed beforehand and in the student 's presence of the reason for the punishment.
+206 - Schools that approve this form of discipline have rules in place to protect the person administering the corporal punishment.
+PARENT
+70 - Society must break the cycle of abuse by banning all forms of corporal punishment.
+68 - Advocates for the abolition of corporal punishment in our schools point to the lasting damage they feel such disciplinary behavior inflicts on impressionable young minds and bodies.
+PARENT
+223 - The lack of parental involvement in the education of their children is cited by teachers as one of the major causes of current classroom disciplinary difficulty
+36 - Working with behavioural difficulties should be done in partnership with parents/carers
+PARENT
+193 - Assuming there will also be a chat room for the students to talk in, abuse of said chat room would result in an hour/day/week / whatever of probation, during which they could not parcipate in the chat room discussions.
+169 - repeated offenders could lose their chatting privledges permenantly.
+PARENT
+90 - Any pupil who is tardy will be required to present a note or tardiness form as required by the school, signed by the parent and stating the date and reason for the tardiness.
+93 - Pupils who are tardy during extremely bad weather or failure of their normal means of transportation shall be recorded tardy, but NOT punished.
+PARENT
+0 - Swats will be given and witnessed by certified personnel in a school office, room, or other place out of the presence of other students.
+2 - The swats will be given with reasonable force by a wooden paddle on the buttocks of the student.
+PARENT
+136 - The supervision and control of students should be maintained during the period while the student is in school, participating in extra-curricular or school sponsored activities, and while he/she is going to or coming from school.
+660 - Students shall remain on the campus at all times unless granted permission to be off-campus, or be subject to disciplinary action.
+CLUSTER
+208 - Corporal punishment refers to intentional application of physical pain as a method of changing behavior.
+436 - "In schools, physical punishment is usually described as  corporal punishment ''."""
+PARENT
+329 - Many teachers found the regulations too restrictive and actively but unsuccessfully campaigned to extend the freedom of teachers in the area of corporal punishment.
+334 - Mr. Price, the middle school principal, also said corporal punishment worked.
+CLUSTER
+377 - corporal punishment is the intentional infliction of physical pain as a method of changing behavior
+793 - Corporal punishment means the deliberate infliction of physical pain by hitting, paddling, spanking, slapping, or any other physical force used as a means of discipline.
+PARENT
+183 - Religion also plays a role in the history of disciplining children by spanking or hitting them.
+282 - Christians argue that the physical discipline of a child is perfectly acceptable and withholding that can be detrimental to the child.
+PARENT
+ROOT
+466 - Corporal punishment is defined as the use of physical force towards a child for the purpose of control and/or correction, and as a disciplinary penalty inflicted on the body with the intention of causing some degree of pain or discomfort, however mild.
+PARENT
+294 - Practices and policies that we were implementing on drug laws have really taken stance in the schools.
+295 - Things like having mandatory minimum sentencing laws, or having three strikes and you 're out, or the idea of aggressively policing minor offenses -- these are things that were happening as a result of the war on drugs and we were implementing these processes in schools.
+PARENT
+319 - As a policy, students ARE NOT PERMITTED to present evidence about their guilt or innocence.
+322 - No-fault punishment schemes for school discipline are one area that needs reform NOW.
+PARENT
+138 - Academic punishment, which is defined as reducing credit previously earned, shall not be used.
+140 - Other types of discipline rather than an arbitrary reduction in credit earned should be employed when punishment is necessary.
+PARENT
+37 - Interventions in response to unwanted behaviour should be the least necessary and least intrusive
+38 - The ' behavioural environment ' should be evaluated at the starting point of all interventions and work to improve the context should always be accorded high priority
+PARENT
+287 - Not only is it fast and effective, but it backs up their limits when their boundaries are crossed.
+286 - It does n't take much time to administer corporal punishment, and you do n't have to hire someone to run a detention or an after-school program
+PARENT
+203 - Long term suspension should be used as a last resort
+725 - Students who are long?term suspended shall be offered alternative education services unless the superintendent provides a significant or important reason for declining to offer such services.
+PARENT
+560 - Day et al (1995) conducted a survey of Canadian school board policies.
+561 - One-third (30 %) used a behavioural expectations approach,
+PARENT
+415 - Sanctions will vary according to the situation.
+418 - Whole-class sanctions or punishments will never be used.
+PARENT
+186 - Most leading professional associations oppose corporal punishment in all its forms.
+191 - "The American Academy of Pediatrics  recommends that corporal punishment in schools be abolished in all states by law and that alternative forms of student behavior management be used."""
+PARENT
+296 - Out of school suspensions were used more than anything else, rather than in-school suspension, rather than parent-teacher conferences.
+297 - Over five years, out of school suspensions have gone from over 26,000 to under 10,000.
+PARENT
+617 - Even school administrators are beginning to find the rigidness of these policies to be problematic.
+620 - While school officials may not have the right answer, they have to err on the side of caution.
+PARENT
+558 - There is no shortage of advice on what ought to be included in school codes of conduct.
+57 - consider providing advocacy support for pupils
+PARENT
+527 - Participants struggled to develop a consistent definition of zero-tolerance policies.
+528 - Further, participants noted that the severity of the incident was open to different interpretation, both by individuals having different experience levels with infractions and by the context in which the incident occurred.
+PARENT
+405 - A second, third or fourth tardy might mean you have to stay after class.
+404 - make sure to establish a punishment once the student reaches their allotment of tardies on their card.
+CLUSTER
+208 - Corporal punishment refers to intentional application of physical pain as a method of changing behavior.
+377 - corporal punishment is the intentional infliction of physical pain as a method of changing behavior
+PARENT
+238 - Redress should always include access to legal remedies.
+239 - This redress could be facilitated by creation of an administrative ombudsman, charged with overseeing compliance with state and local regulations on corporal punishment.
+PARENT
+559 - One issue that has not been adequately considered in the research is the respective roles of education authorities in the development and adoption of school discipline rules and codes of conduct.
+564 - This review, however, found very little evidence to describe the most appropriate roles for these partners and the most effective ways to engage these partners, not only in discipline but in implementing sanctions, maintaining positive school climates or maintaining safe schools.
+PARENT
+226 - There is much that can be done at local and state levels to advocate the ban of corporal punishment in schools.
+262 - Identify members of statewide organizations as possible advocates if their national organizations have adopted policies against corporal punishment in schools.
+PARENT
+358 - The use of corporal punishment in schools has been eliminated as an acceptable form of school discipline in every developed country except the United States.
+460 - A number of other countries have partially abolished the use of corporal punishment in one or more settings and have expressed a commitment to enacting full prohibition
+PARENT
+608 - There were strict rules about how corporal punishment should be given.
+713 - Only a teacher, principal, or assistant principal may administer corporal punishment and may do so only in the presence of a principal, assistant principal, or teacher who shall be informed beforehand and in the student 's presence of the reason for the punishment.
+PARENT
+6 - Pupils should be given a copy of the complaints procedure in appropriate and accessible language, and the procedure should be published for example on notice boards, posters, inclusion in the school newsletter, inclusion in the home-school agreement or inclusion in homework diaries.
+11 - Where complaints concern an existing school policy, such as pupil behaviour and discipline: Resolution should be sought using the remedies set out in these policies.
+CLUSTER
+377 - corporal punishment is the intentional infliction of physical pain as a method of changing behavior
+466 - Corporal punishment is defined as the use of physical force towards a child for the purpose of control and/or correction, and as a disciplinary penalty inflicted on the body with the intention of causing some degree of pain or discomfort, however mild.
+PARENT
+153 - school district officials are immune from liability for administering corporal punishment, as long as the discipline was not excessive.
+152 - A professional employee of a school district is not personally liable for any act that is incident to or within the scope of the duties of the employee 's position of employment and that involves the exercise of judgment or discretion on the part of the employee, except in circumstances in which a professional employee uses excessive force in the discipline of students or negligence resulting in bodily injury to students.
+PARENT
+562 - Special Policies for Students With Behaviour Disorders
+563 - Recently, the federal government in the U.S. has passed a law stating that all schools receiving federal funds for students with disabilities are required to implemented PBS and FBA procedures.
+PARENT
+589 - Effective programs provide anger and impulse control training, psychological counseling, effective academic and remedial instruction, vocational training, active family involvement, guidance and ongoing support when the student returns to regular school.
+591 - Comprehensive anti-bullying and anti-violence programs have also been demonstrated to be effective.
+PARENT
+110 - No person may administer corporal punishment at a school to a learner;
+162 - No principal, assistant principal, teacher, substitute teacher, any other school system employee, or volunteer may use corporal punishment to discipline any student.
+PARENT
+294 - Practices and policies that we were implementing on drug laws have really taken stance in the schools.
+507 - placing special emphasis on the enforcement of substance abuse policies can garner positive results.
+PARENT
+16 - It is important to make a distinction between discipline and punishment.
+17 - Punishment is based on the belief that if children are made to suffer for doing wrong, they will not repeat their inappropriate behaviour.
+PARENT
+106 - Disciplinary measures concerning the child can only be taken in accordance with the child 's dignity, and under no circumstances are physical punishments allowed, or punishments which relate to the child 's physical and mental development or which may affect the child 's emotional status
+107 - During the teaching and educational process, the child has the right to be treated with respect by the teachers, to be informed on his or her rights, as well as on the methods of exercising these rights.
+CLUSTER
+144 - Corporal punishment is a discipline method in which a supervising adult deliberately inflicts pain upon a child in response to a child 's unacceptable behavior and/or inappropriate language.
+363 - Corporal punishment is the intentional infliction of physical pain upon the body of a student as a disciplinary measure.
+PARENT
+650 - Discipline problems on the school bus will be dealt with by the principal of the school responsible for the student in accordance with State Laws and Parish Regulations.
+657 - At no time shall the bus operator assume authority for suspending bus privileges or taking such disciplinary action as requiring a pupil to kneel or inflicting corporal punishment.
+PARENT
+223 - The lack of parental involvement in the education of their children is cited by teachers as one of the major causes of current classroom disciplinary difficulty
+384 - parents should be strongly encouraged to develop alternative and positive approaches to discipline
+CLUSTER
+436 - "In schools, physical punishment is usually described as  corporal punishment ''."""
+466 - Corporal punishment is defined as the use of physical force towards a child for the purpose of control and/or correction, and as a disciplinary penalty inflicted on the body with the intention of causing some degree of pain or discomfort, however mild.
+PARENT
+90 - Any pupil who is tardy will be required to present a note or tardiness form as required by the school, signed by the parent and stating the date and reason for the tardiness.
+648 - Students tardy for school must check in at the office.
+
+188 tupels in total

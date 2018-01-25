@@ -1,0 +1,235 @@
+131 - ADHD is one of the most common childhood behavior disorders. - 0.6488095238095238
+163 - If untreated, the disorder can have long-term adverse effects into adolescence and adulthood. - 0.5
+22 - Attention Deficit Hyperactivity Disorder or ADHD affects 3-5 % of all children. - 0.4761904761904762
+178 - Children with untreated ADHD have higher than normal rates of school problems, social problems, and even injury. - 0.4666666666666666
+132 - Of all children referred to mental health professionals about 35 % are referred for ADHD, more than for any other condition. - 0.43253968253968256
+82 - studies show that a placebo is actually effective, when measured by parent rating scales, with about 15 % of children with ADHD. - 0.42857142857142855
+148 - These tests are not impacted at all by placebos. - 0.42857142857142855
+159 - 85 percent of these adults remain undiagnosed, leading to difficulties with family and other relationships and educational and employment problems. - 0.4166666666666667
+201 - Eating a healthy, nutritious diet (e.g., decreasing junk food while increasing fruits, vegetables, whole grains, and healthy fats) can clearly benefit all children. - 0.4166666666666667
+21 - Interactive Metronome and Musical Therapy utilizes sound feedback to improve attention span and focusing ability. - 0.3947368421052631
+180 - About 5 percent of school-age children have ADHD. - 0.37777777777777777
+125 - Hypnotherapy might help with some common ADHD symptoms. - 0.37264957264957266
+12 - Still another alternative method of treating ADHD is the interactive metronome approach. - 0.37256778309409894
+154 - Hypnosis could help as an alternative ADD/ADHD treatment. - 0.3672438672438672
+134 - The key is always being aware of where your attention is focused while you are engaged in routine activities. - 0.3666666666666667
+217 - eating properly can help lower the risk for many chronic diseases, - 0.3650793650793651
+224 - Some chiropractors believe that chiropractic medicine (therapy that adjusts the spinal column to treat illnesses) is better than medical treatments for ADHD. - 0.3642135642135642
+104 - ADHD drugs are safe and effective, - 0.3601190476190476
+212 - Ritalin is very effective. - 0.3491452991452992
+39 - Those who combined medication with neurofeedback, he says, maintained their ability to control attention. - 0.3452380952380953
+42 - The goal of neurofeedback is to teach the patient to produce the brain-wave patterns associated with focus. - 0.3452380952380953
+144 - While the symptoms of hyperactivity generally decrease with age as the brain matures, other symptoms tend to persist, and it is not uncommon for ADHD-associated impairments to continue through the teenage years and into adulthood. - 0.3444444444444445
+10 - Auditory stimulation is another alternative method of ADHD treatment. - 0.34385964912280703
+93 - natural '' does not necessarily mean harmless. - 0.34074074074074073
+69 - Attend is a powerful, all-natural treatment choice that is Clinically Tested with computerized testing, in addition to parent reports. - 0.33754789272030655
+9 - Food can play a role in exacerbating, or keeping under control, symptoms of ADHD. - 0.33594579813511594
+177 - More scientific research is necessary before experts will consider any of these adult ADHD natural remedies as safe and effective. - 0.3333333333333333
+155 - Hypnosis can give a person with ADD/ADHD the feeling of being in charge of his behavior, - 0.3316738816738816
+40 - after the year of neurofeedback therapy, some patients were able to reduce medication dosage by about 50 percent. - 0.3302253302253302
+11 - Children are made to listen to music, preferably classical music, while performing a task. - 0.32559808612440194
+181 - alternatives to ADHD medication are also available, - 0.3247368559204137
+223 - biofeedback treatments can be expensive. - 0.32045732045732045
+87 - The greener the setting, the better the ability to focus - 0.3194444444444444
+81 - There are 2 million kids with ADHD, - 0.31825396825396823
+36 - Her mother turned to neurofeedback, an alternative ADHD treatment that uses brain exercises to reduce impulsivity and increase attentiveness. - 0.3181386514719848
+147 - Neurofeedback training is an alternative treatment sometimes used to treat ADHD, and other conditions. - 0.3181386514719848
+43 - After Richard received nine months of neurofeedback, his teacher reports that he is now more focused and rarely gets frustrated. - 0.3171152518978606
+83 - Attend is an over-the-counter homeopathic nutraceutical treatment - ADHD alternative medicine. - 0.31672018241891203
+14 - Other alternative treatments include chiropractic care, antimotion sickness medications, candida yeast treatment, and cerebellar training. - 0.3156695156695157
+206 - Several programs combining balance, coordination, eye and sensory exercises that specifically involve the functions of the cerebellum are used to treat ADHD, - 0.3150326797385621
+7 - Biofeedback is a recognized method of treating ADHD. - 0.3141025641025641
+182 - EEG Biofeedback training. - 0.3141025641025641
+31 - Alternative treatment is any treatment -- other than prescription medication or standard psychosocial/behavioral treatments -- that claims to treat the symptoms of ADHD with an equally or more effective outcome. - 0.3136232314621062
+109 - Many prescription medications are stimulant based and may cause significant side effects. - 0.3107193732193732
+111 - Unlike hypnosis, another alternative healing method, there is no direct instruction to think -- or not think -- about anything in particular. - 0.30870445344129555
+146 - It is a genetic condition that affects an estimated five percent of U.S. children, - 0.30855762594893027
+56 - Neurofeedback (EEG Biofeedback) EEG biofeedback -- also referred to as neurofeedback -- is an intervention for ADHD that is based on findings that many individuals with ADHD show low levels of arousal in frontal brain areas. - 0.30154486036838973
+160 - there are concerns about the drugs ' potential to increase cardiac risks. - 0.2940836940836941
+210 - does not require a prescription, - 0.29386845039018955
+91 - In children with thyroid dysfunction, the thyroid status seems related to attention and hyper-active-impulsive systems. - 0.2936507936507936
+190 - Controlled trials of all of these approaches are lacking, - 0.28888888888888886
+113 - ADHD can affect behaviour so much that functioning on a daily basis becomes difficult. - 0.2887112887112887
+96 - behavior therapy regimen can be developed by a pediatrician or a school psychologist or another mental-health worker. - 0.28303872053872053
+140 - Hyperactivity has long been associated with sugary sodas and cheeks full of candy. - 0.28174603174603174
+162 - Attention Deficit '' impacts about 5 % of children and teenagers, and about 3 % of all adults. - 0.28174603174603174
+167 - Patients should exercise caution when trying a natural remedy for their ADD. - 0.2785714285714285
+196 - caffeine can improve the function of children suffering from ADHD. - 0.2785714285714285
+32 - Controversial treatments are interventions with no known published science supporting them and no legitimate claim to effectiveness. - 0.27777777777777773
+226 - Sometimes children who have thyroid disorders also have problems with attention and hyperactive behavior. - 0.2775372775372775
+135 - Mindful awareness, or mindfulness, is part of many religious traditions. - 0.2772727272727273
+5 - ADHD medications may bring about the onset of side effects which may be harmful to the ADHD patient 's health. - 0.2769230769230769
+98 - Physical activity may be good for focus. - 0.2754435107376284
+233 - "Natural '' does not necessarily mean  Safe.""" - 0.27037037037037037
+136 - Mindful awareness can also make people more aware of their emotional state, so they wo n't react impulsively. - 0.2698412698412698
+137 - Researchers have talked about using mindfulness for ADHD for some time, but the question was always whether people with ADHD could really do it, especially if they 're hyperactive. - 0.2698412698412698
+230 - ADHD treatments range from diet restrictions to herbal products; EEG to video games. - 0.2656130268199233
+153 - Controlled studies - the ones that compare kids who are on and off sugar - have n't found any link to attention or behavior in school-age children. - 0.26515151515151514
+35 - Multimodal treatment for children and adolescents with ADHD consists of parent and child education about diagnosis and treatment, behavior management techniques, medication, and school programming and supports. - 0.26210826210826216
+228 - Multimodal treatment includes medications, behavioral therapy, school programs and accommodations, and education of children and families about the disorder, which helps with the unwanted behavior that comes from ADHD symptoms. - 0.26210826210826216
+25 - when a child 's impulsivity, hyperactivity or inability to concentrate begins to affect his performance at school or his relationship with family and friends, then professional help is needed. - 0.2619047619047619
+1 - Always tell your doctor about any herbal products or nutritional supplements that you may be using. - 0.26190476190476186
+161 - Unless the task is very stimulating, like a video game or TV program or outside playing, those with attention disorders are often easily bored by a task - especially bored by homework, math tests, balancing checkbooks, or doing taxes, and many of these tasks just never get done. - 0.25833333333333336
+215 - vitamins, herbs, and other treatments can cause problems with your other medications. - 0.2571428571428571
+126 - Do not use gingko biloba for children with a blood clotting problem. - 0.25595238095238093
+107 - Every child is different and will respond as an individual to the treatment options - 0.2550505050505051
+207 - Routine physical activity, - 0.25416666666666665
+222 - Some studies found this training helpful with ADHD movement and timing problems, but other studies did not. - 0.25333333333333335
+158 - ampakines do not seem to have unpleasant, long-lasting side effects - 0.2523809523809524
+151 - In preschool children, there may be a weak association between sugar and ADHD-like symptoms. - 0.24999999999999997
+129 - Homeopathy uses combinations of plant, animal or mineral extracts as remedies. - 0.24903422652001672
+3 - A complementary treatment is added to usual treatment with the hope of even better control of ADHD symptoms. - 0.24169580419580425
+227 - Thyroid disorders in children with ADHD are rare. - 0.23917748917748916
+164 - "Less than half of children with ADD ever  out-grow '' it in adolescence or adulthood.""" - 0.23703703703703702
+33 - "Prescription medication and standard psychosocial/behavioral treatments have been  extensively and well reviewed in the extant literature, with undoubted efficacy.""" - 0.23699457032790364
+28 - Good nutrition is of the utmost importance. - 0.2360544217687075
+199 - Nutrition appears to play a more significant role in disease - 0.2360544217687075
+142 - Protein is key, says Mitchell, because it can prevent surges in blood sugar, which may increase hyperactivity. - 0.2352092352092352
+37 - average course of treatment can range from $ 2,000 to $ 5,000. - 0.23461538461538464
+120 - Changes in diet may help a small group of children who have allergies, food sensitivities or who suffer from migraine headaches. - 0.2284313725490196
+44 - thyroid hormone syndrome appears extremely rare in ADHD. - 0.22751322751322753
+53 - SI therapy is not a treatment for ADHD but some children with ADHD may have SI dysfunction. - 0.22549019607843138
+114 - With treatment, children with ADHD are better able to live with and manage their symptoms. - 0.22474747474747472
+86 - kids ' focus was better following outdoor activities than after indoor activities, - 0.2222222222222222
+88 - A study of healthy kids in public housing found that those who lived in apartments with a relatively green view had better impulse control than those with barren views. - 0.2222222222222222
+116 - Essential fatty acids, such as fish oil or primrose oil may have some benefit for children with ADHD, but there is still a lot of research to be done. - 0.22211538461538463
+193 - Magnesium may also positively impact ADHD symptoms. - 0.22211538461538463
+57 - Advocates of this approach believe that imbalance of muscle tone can cause an imbalance of brain activity, and that spinal adjustments as well as other somatosensory stimulation, such as exposure to varying frequencies of light and sound, can effectively treat ADHD and learning disabilities. - 0.21944444444444444
+128 - the most important advances in ADHD medications have been the with the improvement of, and greater variety of the delivery systems of the time tested drugs for ADHD. - 0.21669071669071668
+192 - nutritionists and alternative healers insist that following the Feingold diet can lead to a significant reduction of ADHD symptoms. - 0.21616161616161614
+141 - She finds that when her daughter eats a well-balanced ADD-friendly diet, including vegetables, carbohydrates, fruits, and plenty of protein, her behavior tends to be more consistently under control. - 0.21596051007815711
+105 - Medication is by far the most proven, safe, and effective treatment for ADHD. - 0.21486577938190843
+102 - That same burst of activity also elevates the brain 's dopamine, norepinephrine, and serotonin levels. - 0.2148148148148148
+168 - Always talk to your doctor first before beginning any natural treatment regimen for your condition. - 0.2148148148148148
+143 - Several studies have suggested that artificial food coloring and sugar may cause increased hyperactivity in some children with ADHD. - 0.21428571428571427
+216 - being sensitive to certain foods can cause symptoms of ADHD. - 0.21313131313131314
+195 - For some people with ADHD, mild stimulants such as caffeine and theobromine (a bitter chemical from the cocoa plant and present in chocolate) have similar effects to the more powerful drugs - 0.21296296296296294
+76 - medication for ADHD remains a controversial topic. - 0.21004901960784314
+169 - Alternative remedies are used in place of traditional medicines and complementary remedies are used in addition to traditional treatments. - 0.20892539672421104
+23 - If your Child has ADHD, he or she needs your help, guidance and understanding. - 0.20634920634920637
+213 - Alternative and complementary treatments usually are n't carefully tested or judged by a group of experts. - 0.20634920634920637
+133 - Those with ADHD often have problems in most areas of their life, including home, school, work, and in relationships. - 0.2035714285714286
+61 - Many parents are concerned about the risk of giving their children powerful psychoactive medications - 0.20138888888888887
+218 - exercise and physical activity are recommended as part of an overall healthy lifestyle. - 0.1984126984126984
+54 - Anatomically and physiologically, there is no reason to believe that the inner ear system is involved in attention and impulse-control other than in marginal ways. - 0.19576719576719573
+209 - Attend is also effective. - 0.19574398960363873
+221 - Sensory Integration Training Integration means combining or blending. - 0.19535603715170277
+92 - No treatment works for everyone. - 0.18932920908813491
+191 - there are no alternative treatments for which comparable empirical support exists. - 0.18818681318681318
+4 - Sometimes people look for treatments for attention-deficit/hyperactivity disorder (ADHD) that they hope will work together with -- or even instead of -- their doctor 's treatments. - 0.18699273745545789
+84 - "If you struggle too long without a break, you experience a condition that might be called  attention fatigue.""" - 0.1865079365079365
+138 - brainwave biofeedback training might also be very helpful. - 0.18505050505050505
+174 - No definitive, empirical data exists proving the efficacy and reliability of natural remedies as a treatment for adult attention deficit hyperactivity disorder. - 0.18333333333333335
+0 - The idea of removing sugars, food coloring and other additives from the diet as a treatment for ADHD remains one of the most popular alternative treatments for the disorder. - 0.18178053830227744
+130 - Over the past ten years the greatest advances in ADHD medicines have not been the development of some wonder drug, though some good medications have been developed. - 0.17965367965367962
+179 - traditional medicines and adult ADHD treatments represent the best and most effective way to treat adult ADHD. - 0.17845238095238095
+117 - Biofeedback claims to help people control their own responses. - 0.17715617715617715
+118 - Studies on whether biofeedback works have been done using very small groups of children and results are not clear. - 0.17715617715617715
+95 - Drugs do n't improve self-esteem, time management, or organizational skills. - 0.17712842712842713
+123 - Valerian, sometimes used to help with sleep problems and anxiety, can cause headaches. - 0.17424242424242423
+165 - A lot of teenagers, and even children, are prescribed antidepressants, somewhere from 1 % to 1.5 % of the population. - 0.17424242424242423
+46 - Research has also shown that the simple elimination of sugar or candy does not affect ADHD symptoms, despite a few encouraging reports. - 0.17394179894179893
+73 - Sugar or candy restriction alone is not an effective treatment for ADHD in children or adults. - 0.17394179894179893
+17 - Two ADD alternative treatments that show promise in increasing children 's attention and focusing abilities include biologic and auditory feedback. - 0.17339901477832512
+108 - "When it comes to the treatment of Attention Deficit Disorder - ADD ADHD - or with problems of Attention, Impulse Control, Over-Activity, and/or Learning Problems in  the real world, '' there are a number of approaches to treatment that may work well.""" - 0.17265684051398336
+85 - when you have to struggle to maintain attention - what happens when you concentrate on a task like writing or doing computations - neurotransmitters in the brain 's prefrontal cortex get depleted. - 0.1726190476190476
+208 - Treating ADHD requires a good deal of effort and money. - 0.17229269980394415
+204 - The use of light and sound stimulation (alpha/theta wave) to guide and change brainwave patterns has also been touted as helpful for reducing ADHD symptoms, - 0.17129629629629628
+205 - Advocates suggest that increasing the stimulation frequency of the alpha/theta wave improves cognitive functioning and reduces symptoms caused by slow brainwaves. - 0.17129629629629628
+183 - Caffeine is a mild CNS stimulant that can be used with ADHD children, teens, and adults, if used purposefully and in moderation. - 0.17037037037037037
+185 - there is convincing scientific evidence that some children who display symptoms of ADHD can derive significant benefits from appropriate dietary treatments - 0.1686222808174028
+112 - Attention-deficit hyperactivity disorder, also known as ADHD, is a condition that runs in families. - 0.16838235294117646
+72 - Essential fatty acid supplementation has promising systematic case-control data but needs more research. - 0.16666666666666666
+48 - "the FDA has warned consumers to watch out for  fraudulent '' dietary supplements, which claim to be for particular purposes but may contain harmful ingredients.""" - 0.16544117647058823
+110 - Reiki can be extremely helpful with ADHD as it can help quiet your mind, and assist with [finding] clarity and direction in your life. - 0.16374269005847952
+220 - Scientists have found no proof of this idea. - 0.16190476190476188
+203 - Consult with a physician if you decide to supplement with iron. - 0.15873015873015872
+59 - No research has been done to support the effectiveness of chiropractic approaches for the treatment of ADHD. - 0.15833333333333333
+24 - ADHD is difficult to diagnose. - 0.15823650034176348
+18 - no evidence suggests a link between a high sugar diet and a child 's development of ADHD - 0.15773809523809523
+156 - Ampakines are a new class of modified benzamide compounds known to enhance attention span and alertness. - 0.15728715728715728
+78 - ATTEND takes about 30-60 days to become effective. - 0.1567632850241546
+67 - Computerized Testing showed over 70 % improved with Attend in just 30 days, - 0.15673705379587732
+157 - ATTEND helps 70 % to be more focused, to get their work done, and to think more clearly. - 0.15673705379587732
+187 - a treatment may be known to help children with ADHD, but it may be effective for only a minority of the ADHD population and the specific subgroup it is effective for is not clearly defined. - 0.15607632627773002
+77 - EEG Biofeedback, or Neurofeedback training, was about 70-75 % effective - 0.1548892284186402
+119 - there is little evidence that a diet without sugar or additives help with the symptoms of ADHD. - 0.15421245421245422
+176 - never embark on any new exercise routine without first consulting your doctor. - 0.1537037037037037
+214 - (No one treatment works for everyone. - 0.15297532209078976
+225 - No scientific studies prove that chiropractic helps with symptoms of this brain disorder. - 0.1529100529100529
+62 - There is no scientific support for any theory claiming specific ocular exercises or coloured lens can alleviate ADHD - 0.15288220551378445
+65 - Hypnosis has little to no effect on the core symptoms of ADHD. - 0.1511591478696742
+66 - hypnosis is not a very effective means of controlling ADHD - 0.1511591478696742
+60 - "There is  no systematic data on optometric training for ADHD despite its widespread use.""" - 0.1479044834307992
+211 - chart comparing Ritalin to ATTEND and to EEG Biofeedback treatment - 0.14583333333333334
+68 - Parent Rating Scales reported 80 % improved in 30 days. - 0.14512427044396356
+122 - Herbs can be calming, and some studies show they may play a role in memory and thinking, but none have been proven to help with the main symptoms of ADHD. - 0.1445887445887446
+152 - Dietary interventions are difficult to impose and unlikely to bring any benefit. - 0.1439814814814815
+121 - There is no scientific evidence that vitamin supplements help to treat ADHD. - 0.14175824175824178
+19 - Experts do not know whether supplementary docosahexaenoic acid (DHA) or eicosapentaneoic acid (EPA) offers any benefits as a natural ADD treatment. - 0.1414141414141414
+99 - Team activities or exercise with a social component are especially beneficial. - 0.1413817663817664
+100 - Exercise turns on the attention system, the so-called executive functions - sequencing, working memory, prioritizing, inhibiting, and sustaining attention, - 0.1413817663817664
+101 - Rat studies show that exercise reduces learned helplessness. - 0.1413817663817664
+229 - People with ADHD have individual treatment needs. - 0.1412535397588537
+20 - While this daily treat may make people suffering from the disorder feel happy and more relaxed, resulting in sharper focus and reduced restlessness, it does not address the underlying cause of the condition. - 0.14074074074074075
+27 - Diet is often part of the problem. - 0.13927738927738928
+41 - Some symptoms of ADHD - impulsivity, distractibility, and acting out - diminish. - 0.13783371472158656
+80 - Some kids seem to have real ups and downs with their blood sugar levels. - 0.13714063714063715
+63 - no evidence to support anecdotal reports of improvements in ADHD symptoms after introducing prismatic lenses - 0.13631300473405736
+30 - Known to reduce restlessness and over-excitability, this homeopathic remedy showed positive results in a controlled study conducted in 1997. - 0.1344155844155844
+94 - The goal is to incrementally teach children new ways of behaving by rewarding desired behavior, such as following directions, and eliminating undesired actions, such as losing homework, - 0.13409397619923935
+75 - A few of the alternatives proposed have been demonstrated to be probably ineffective or possibly dangerous, - 0.13278388278388278
+172 - Adding a routine of daily rigorous exercise may help mitigate restlessness, chronic boredom, and impulsivity, which are hallmark symptoms of ADHD in adults. - 0.13223622782446312
+166 - For some it severely impacts behavior, and for others it greatly impacts learning. - 0.13223443223443224
+103 - kids realize they can regulate their mood and attention through exercise, - 0.13214285714285715
+38 - "Monastra 's results indicate that  patients who did not receive the therapy lost most of the positive effects of treatment one week after they were taken off medication.""" - 0.13181818181818183
+89 - A lack of certain polyunsaturated fatty acids may contribute to dyslexia and attention-deficit/hyperactivity disorder, - 0.13095238095238096
+74 - Some alternative treatments look promising but lack sufficient research. - 0.13015873015873017
+2 - If you are combining Ritalin with improved nutrition, there is no risk of injury and you may actually help your child. - 0.12934472934472935
+186 - Iron supplementation has been associated with improvements in parent behavior ratings for ADHD boys, - 0.12850140056022408
+8 - The effectiveness of this alternative treatment has been attested by many parents and by some published studies. - 0.12806763285024153
+145 - Attention Deficit Hyperactivity Disorder is a childhood disorder linked with attention problems, impulsivity, and hyperactivity. - 0.1272727272727273
+70 - "Arnold describes 24 such treatments in a recent article titled  Alternative Treatments for Adults with Attention Deficit Hyperactivity Disorder,""" - 0.1270856507230256
+29 - Try an alternative treatment for ADHD such as natural herbal remedies before you turn to prescription medication. - 0.12685185185185185
+124 - Blue-green algae can cause stomach upset, weakness, numbness and tingling. - 0.1259259259259259
+232 - Many of the alternative treatments are completely safe. - 0.12564102564102564
+58 - Treatment consists of restoring the cranial bones to the proper position through specific bodily manipulations. - 0.1253968253968254
+26 - Some kids simply can not tolerate any stimulant, no matter how low the dosage. - 0.12436974789915967
+200 - Children taking stimulant medication, however, should be monitored closely for significant weight loss. - 0.12436974789915967
+15 - most of these natural remedies for ADHD probably will not effectively control the symptoms of ADD. - 0.12169312169312169
+6 - There are ADHD alternative treatments that you may use in addressing the problem of ADHD symptoms in your child. - 0.120892071688113
+194 - Whether or not this treatment actually positively affects individuals with ADHD remains to be seen. - 0.11984126984126985
+90 - recent research suggests a possible relationship between ADHD and the foods one consumes. - 0.11960773144983672
+79 - Some kids seems very sensitive to food additives or food colorings, or to sodas, or to cow 's milk, or to sugars paired with carbohydrates. - 0.11823361823361823
+97 - The latest news about exercise is that it helps kids push through past failures and attack things they did n't succeed at before. - 0.11805555555555554
+219 - Some people think diet supplements improve symptoms of ADHD. - 0.11715686274509805
+49 - For children with demonstrated deficiencies of any nutrient (e.g., zinc, iron, magnesium, vitamins) , correction of that deficiency is the logical first-line treatment. - 0.11643071643071644
+64 - Several homeopathic studies have also been conducted on ADHD children (Lamont, 1997) and statistically significant improvement have been shown. - 0.11452991452991453
+45 - Two small studies showed a reduction in inattention and hyperactivity symptoms after a program of glyconutritional supplements, - 0.11442307692307692
+197 - children with ADHD have low levels of EPA and DHA, - 0.10897435897435898
+16 - Leading experts and ADHD researchers know of no natural cure for ADHD. - 0.10873015873015873
+127 - No studies have shown that homeopathy works in treating ADHD. - 0.10845295055821373
+50 - The deficiency as a cause of ADHD without other symptoms has not been demonstrated. - 0.10500610500610501
+188 - Promising initial results using several types of mineral supplements have also been reported. - 0.10437710437710439
+198 - Herbal supplements such as ginkgo biloba have also been used to treat the symptoms of ADHD. - 0.10356310356310357
+175 - Due to the increasing popularity of alternative and complementary medicine concepts, people now have numerous choices in nontraditional approaches to personal health and wellness. - 0.10179562864572352
+55 - Some believe that toxins produced by the yeast overgrowth weaken the immune system and make the body susceptible to ADHD and other psychiatric disorders. - 0.10175438596491228
+171 - Some research has shown that people with ADHD have insufficient amounts of zinc in their bodies. - 0.10158730158730157
+52 - The rationale behind IM training is that motor planning and timing deficits are common in children with ADHD and are related to problems with behavioral inhibition that some experts believe are critical to understanding the disorder. - 0.10073983987027464
+139 - Results can vary from patient to patient so its important that you monitor and work with your doctor. - 0.10014430014430015
+234 - Most doctors seem to think that nutrition does not cause or control ADHD. - 0.1001036001036001
+150 - ADHD is n't caused by an allergic reaction to food, or anything in food, including additives. - 0.09861111111111111
+47 - ADHD is a brain-based disorder where the chemistry of the brain (neurotransmitters) is not functioning as it should. - 0.09691358024691359
+13 - Nutritional and herbal supplements are also used in treating ADHD. - 0.09666375291375291
+202 - Iron levels tend to be low in individuals with ADHD. - 0.09599673202614378
+173 - Study results report that St. John 's Wort is not an effective natural treatment for ADHD in adults. - 0.09161793372319688
+149 - Some preliminary studies suggest that deficiencies of certain nutrients, including iron, zinc, magnesium, and vitamin B6, are associated with ADHD-like symptoms - and that, in these instances, correcting the deficiency might help curb symptoms. - 0.09148148148148148
+115 - Talk to your doctor before trying any alternative therapy for your child 's ADHD. - 0.08582621082621082
+106 - Not everybody responds well to medication, or biofeedback, or diet, or Attend. - 0.08467597565341926
+170 - While numerous studies indicate that adding zinc supplements reduces hyperactivity and impulsive behavior, they also show it as causing no improvement in attention span. - 0.06972704714640199
+51 - No systematic data regarding ADHD efficacy could be found for hypericum, Gingko biloba, Calmplex, Defendol, or pycnogenol. - 0.06857031857031858
+189 - Dr. Arnold could not find any systematic data for using pycnogenol for treating ADHD, - 0.06857031857031858
+231 - lack of independent research - 0.06384000548866248
+71 - Some alternative treatments of ADHD are effective or probably effective, but mainly for specific subgroups. - 0.0509700176366843
+34 - Although there are several effective treatments, they are not equally effective for all children with ADHD. - 0.05079127103115109
+184 - we have found that stimulants, and other prescription drugs, are not the only effective interventions for ADHD. - 0.04465984972314086

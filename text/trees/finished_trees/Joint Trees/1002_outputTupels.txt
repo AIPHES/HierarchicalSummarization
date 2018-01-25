@@ -1,0 +1,109 @@
+
+D:/Mega/DIP_Tool/Finished_trees/JS/Topic_1002_cellphone_for_12_years_old_kid_DIPTool_JS.txt, Nuggets: 88
+
+
+-Same elements of 3 annotators-
+
+
+0 tupels in total
+
+-Same elements of 2 annotators-
+
+PARENT
+80 - Many families say they are careful to create rules about how and when their children can use their phones.
+55 - Program everyone 's numbers into their phones so they display the caller 's name.
+PARENT
+ROOT
+20 - For parents, it 's a balancing act that takes practice.
+PARENT
+ROOT
+22 - When phones are Web-enabled, parents are often surprised by the size of the phone bill.
+PARENT
+77 - a phone with parental controls and limited features, coupled with clear rules about phone use, could be a good tool for families,
+63 - This phone also works great for punish and reward systems.
+PARENT
+4 - When you hand a phone to a kid, you have to affirmatively take control,
+80 - Many families say they are careful to create rules about how and when their children can use their phones.
+PARENT
+ROOT
+16 - You hear many teachers complain today of children using cellphones for texting in classrooms; well, there is a simple solution to that.
+PARENT
+14 - Thirty-nine kids (2.5 percent) said they appeared in or created images that involved semi-nudity or near-nudity.
+15 - "The 10-year-old boy who sent a girl a cellphone picture of his penis to  gross her out '' was n't arrested."""
+PARENT
+16 - You hear many teachers complain today of children using cellphones for texting in classrooms; well, there is a simple solution to that.
+33 - There are phones in every room at the school that they can use if they are staying after school or need something.
+PARENT
+ROOT
+74 - i think its really important for a younger child to have a phone especially in today 's day and age.
+PARENT
+16 - You hear many teachers complain today of children using cellphones for texting in classrooms; well, there is a simple solution to that.
+76 - Many are creating school policies governing cellphone use, like those in place at middle and high schools, where cellphones are more common.
+PARENT
+ROOT
+28 -  They 're adept. They 're swimming in technology, and they 're comfortable using
+PARENT
+22 - When phones are Web-enabled, parents are often surprised by the size of the phone bill.
+42 - The cost is reasonable at $ 15 a month for about 150 minutes of use.
+PARENT
+4 - When you hand a phone to a kid, you have to affirmatively take control,
+21 - On the positive side, some kiddie cell phones have parental controls.
+PARENT
+32 - Over the last decade, the age of kids packing their first cellphone has been dialing back younger and younger.
+87 - somewhere between nine and twelve is when most kids nowadays get their phones.
+PARENT
+45 - Cellphones did not exist in the early period but were introduced at the beginning (1981) of the late period when the striking rise in acoustic neuromas also began.
+46 - Some argue that the change in the number of acoustic neuromas reflects, instead of the introduction of cellphones, the introduction of better diagnostic tools; specifically CT scans which began in 1974, and MRI scans, first used in 1984.
+PARENT
+20 - For parents, it 's a balancing act that takes practice.
+4 - When you hand a phone to a kid, you have to affirmatively take control,
+PARENT
+19 - When they are teens, we give them cellphones so they 're never far from our help or advice.
+86 - Children can get lost or get kidnapped and in these cases a cellphone is surely a great device.
+PARENT
+80 - Many families say they are careful to create rules about how and when their children can use their phones.
+47 - Knowing how distracting cellphones can be, she and her husband set some ground rules: No phones at the dinner table or while out to eat with family.
+PARENT
+ROOT
+3 - The best thing parents can do is educate, educate, educate,
+PARENT
+1 - Studies have shown that children who use cellphones before the age of 20 have a greater risk of developing cancer than adults.
+10 - Another project, called Cefalo, is under way in Denmark, Norway, Sweden and Switzerland to explore whether mobile telephone use increases the risk of brain tumors for children.
+PARENT
+16 - You hear many teachers complain today of children using cellphones for texting in classrooms; well, there is a simple solution to that.
+83 - Only 23 percent of those whose kids have cellphones think their children are using them during school, while 65 percent of kids say they use
+PARENT
+51 - The bulk of teens are 12 or 13 when they get their first cell phone - but remember this applies to teens who are 17 now and got their phones five years ago, as well as current 13 year olds who have had a phone for six months.
+54 - Now about 85 % of kids under 17 and 61 % of kids from 10 to 13 have a cellphone.
+PARENT
+57 - Some studies, using computer image modelling, show signals radiate farther into children 's heads than adults.
+2 - Children also had more fluid in their brains than adults.
+PARENT
+ROOT
+11 - In December, Telef nica, which helped develop the MO1 and a more sophisticated version for young children, the Win1, announced a code of conduct for responsible use of mobile telephones by young customers.
+PARENT
+22 - When phones are Web-enabled, parents are often surprised by the size of the phone bill.
+29 - Parents can set monthly allowances, which Kajeet says will help them teach kids about budgeting.
+PARENT
+6 - i think a good age for a kid to get a cellphone is when they get into middle school or as a present for they 're fifth grade graduation!
+12 - i dont think people should wait until their kids are thirteen for them to buy thier kids a cell phone.
+PARENT
+74 - i think its really important for a younger child to have a phone especially in today 's day and age.
+78 - "Many parents see mobile phones for kids as a way to  parent on the go, '' to extend their oversight and remotely cover scheduling gaps."""
+PARENT
+38 - It just matters if your kid is ready to handle it.
+41 - Can he/she be trusted to care for a phone?
+PARENT
+16 - You hear many teachers complain today of children using cellphones for texting in classrooms; well, there is a simple solution to that.
+17 - Teachers should have the authority to take the cellphone and hold it for a period of time (punishment) if a student is found to use it in the class, the parents should be called and informed.
+PARENT
+ROOT
+45 - Cellphones did not exist in the early period but were introduced at the beginning (1981) of the late period when the striking rise in acoustic neuromas also began.
+PARENT
+16 - You hear many teachers complain today of children using cellphones for texting in classrooms; well, there is a simple solution to that.
+71 - Cellphones are not permitted because they can be disruptive in class.
+PARENT
+74 - i think its really important for a younger child to have a phone especially in today 's day and age.
+77 - a phone with parental controls and limited features, coupled with clear rules about phone use, could be a good tool for families,
+
+32 tupels in total
