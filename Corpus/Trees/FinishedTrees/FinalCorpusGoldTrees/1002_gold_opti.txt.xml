@@ -3,28 +3,28 @@
   <Bubble name="children possess cellphones from a very early age">
     <Nugget id="0"/>
     <Bubble name="">
-      <Nugget id="51"/>
-    </Bubble>
-    <Bubble name="when to own a phone , younger">
-      <Nugget id="32"/>
-    </Bubble>
-    <Bubble name="">
-      <Nugget id="30"/>
-    </Bubble>
-    <Bubble name="industry">
-      <Nugget id="75"/>
-    </Bubble>
-    <Bubble name="">
       <Nugget id="82"/>
-    </Bubble>
-    <Bubble name="stats">
-      <Nugget id="50"/>
     </Bubble>
     <Bubble name="">
       <Nugget id="54"/>
     </Bubble>
     <Bubble name="">
       <Nugget id="52"/>
+    </Bubble>
+    <Bubble name="">
+      <Nugget id="51"/>
+    </Bubble>
+    <Bubble name="when to own a phone , younger">
+      <Nugget id="32"/>
+    </Bubble>
+    <Bubble name="stats">
+      <Nugget id="50"/>
+    </Bubble>
+    <Bubble name="industry">
+      <Nugget id="75"/>
+    </Bubble>
+    <Bubble name="">
+      <Nugget id="30"/>
     </Bubble>
     <Bubble name="">
       <Nugget id="87"/>
@@ -37,14 +37,14 @@
     </Bubble>
     <Bubble name="">
       <Nugget id="57"/>
-      <Bubble name="studies">
-        <Nugget id="9"/>
-      </Bubble>
       <Bubble name="">
         <Nugget id="44"/>
         <Bubble name="children have more fluids than adults">
           <Nugget id="2"/>
         </Bubble>
+      </Bubble>
+      <Bubble name="studies">
+        <Nugget id="9"/>
       </Bubble>
     </Bubble>
     <Bubble name="">
@@ -61,24 +61,12 @@
       <Bubble name="take control">
         <Nugget id="4"/>
         <Bubble name="">
-          <Nugget id="56"/>
-          <Bubble name="sexting/bullying">
-            <Nugget id="25"/>
-            <Bubble name="">
-              <Nugget id="64"/>
-              <Bubble name="">
-                <Nugget id="14"/>
-                <Bubble name="sex pictures/abuse/child predators">
-                  <Nugget id="15"/>
-                </Bubble>
-              </Bubble>
-            </Bubble>
-            <Bubble name="sexting">
-              <Nugget id="13"/>
-            </Bubble>
-            <Bubble name="">
-              <Nugget id="31"/>
-            </Bubble>
+          <Nugget id="21"/>
+          <Bubble name="">
+            <Nugget id="36"/>
+          </Bubble>
+          <Bubble name="">
+            <Nugget id="34"/>
           </Bubble>
         </Bubble>
         <Bubble name="family rules about phones">
@@ -94,12 +82,24 @@
           </Bubble>
         </Bubble>
         <Bubble name="">
-          <Nugget id="21"/>
-          <Bubble name="">
-            <Nugget id="34"/>
-          </Bubble>
-          <Bubble name="">
-            <Nugget id="36"/>
+          <Nugget id="56"/>
+          <Bubble name="sexting/bullying">
+            <Nugget id="25"/>
+            <Bubble name="">
+              <Nugget id="64"/>
+              <Bubble name="">
+                <Nugget id="14"/>
+                <Bubble name="sex pictures/abuse/child predators">
+                  <Nugget id="15"/>
+                </Bubble>
+              </Bubble>
+            </Bubble>
+            <Bubble name="">
+              <Nugget id="31"/>
+            </Bubble>
+            <Bubble name="sexting">
+              <Nugget id="13"/>
+            </Bubble>
           </Bubble>
         </Bubble>
       </Bubble>
@@ -108,10 +108,10 @@
   <Bubble name="when is the right time for a kid to get a cellphone?">
     <Nugget id="6"/>
     <Bubble name="">
-      <Nugget id="12"/>
+      <Nugget id="35"/>
     </Bubble>
     <Bubble name="">
-      <Nugget id="35"/>
+      <Nugget id="12"/>
     </Bubble>
   </Bubble>
   <Bubble name="brain cancer death tumor , when did cellphones start appearing , acoustic neuromas">
@@ -126,10 +126,10 @@
   <Bubble name="new technology">
     <Nugget id="11"/>
     <Bubble name="">
-      <Nugget id="81"/>
+      <Nugget id="61"/>
     </Bubble>
     <Bubble name="">
-      <Nugget id="61"/>
+      <Nugget id="81"/>
     </Bubble>
     <Bubble name="">
       <Nugget id="69"/>
@@ -159,25 +159,25 @@
   <Bubble name="phone bill , bills">
     <Nugget id="22"/>
     <Bubble name="">
-      <Nugget id="29"/>
-    </Bubble>
-    <Bubble name="">
       <Nugget id="73"/>
       <Bubble name="">
         <Nugget id="43"/>
       </Bubble>
     </Bubble>
+    <Bubble name="">
+      <Nugget id="29"/>
+    </Bubble>
   </Bubble>
   <Bubble name="contra cellphones for kids">
     <Nugget id="26"/>
+    <Bubble name="">
+      <Nugget id="59"/>
+    </Bubble>
     <Bubble name="16">
       <Nugget id="24"/>
     </Bubble>
     <Bubble name="age">
       <Nugget id="72"/>
-    </Bubble>
-    <Bubble name="">
-      <Nugget id="59"/>
     </Bubble>
   </Bubble>
   <Bubble name="can he/she handle it? , is the kid ready? , great responsibility">
@@ -197,8 +197,29 @@
   </Bubble>
   <Bubble name="pro cellphones , they need it">
     <Nugget id="74"/>
+    <Bubble name="to watch the kids">
+      <Nugget id="78"/>
+      <Bubble name="">
+        <Nugget id="79"/>
+        <Bubble name="">
+          <Nugget id="62"/>
+        </Bubble>
+      </Bubble>
+      <Bubble name="">
+        <Nugget id="19"/>
+        <Bubble name="">
+          <Nugget id="86"/>
+        </Bubble>
+      </Bubble>
+    </Bubble>
     <Bubble name="good tool for families , mobile phones for kids under certain conditions">
       <Nugget id="77"/>
+      <Bubble name="wherify">
+        <Nugget id="85"/>
+        <Bubble name="">
+          <Nugget id="84"/>
+        </Bubble>
+      </Bubble>
       <Bubble name="">
         <Nugget id="63"/>
         <Bubble name="">
@@ -206,27 +227,6 @@
           <Bubble name="">
             <Nugget id="37"/>
           </Bubble>
-        </Bubble>
-      </Bubble>
-      <Bubble name="wherify">
-        <Nugget id="85"/>
-        <Bubble name="">
-          <Nugget id="84"/>
-        </Bubble>
-      </Bubble>
-    </Bubble>
-    <Bubble name="to watch the kids">
-      <Nugget id="78"/>
-      <Bubble name="">
-        <Nugget id="19"/>
-        <Bubble name="">
-          <Nugget id="86"/>
-        </Bubble>
-      </Bubble>
-      <Bubble name="">
-        <Nugget id="79"/>
-        <Bubble name="">
-          <Nugget id="62"/>
         </Bubble>
       </Bubble>
     </Bubble>
@@ -239,11 +239,11 @@
     <Bubble name="tendonitis">
       <Nugget id="65"/>
     </Bubble>
-    <Bubble name="texting">
-      <Nugget id="67"/>
-    </Bubble>
     <Bubble name="not enough sleep">
       <Nugget id="49"/>
+    </Bubble>
+    <Bubble name="texting">
+      <Nugget id="67"/>
     </Bubble>
   </Bubble>
   <Bubble name="limiting use">
@@ -255,14 +255,14 @@
   <Bubble name="kids using modern devices">
     <Nugget id="27"/>
   </Bubble>
+  <Bubble name="whiz kids , children as phone experts">
+    <Nugget id="28"/>
+  </Bubble>
   <Bubble name="digital natives">
     <Nugget id="70"/>
   </Bubble>
   <Bubble name="biking or crossing streets , phoning while driving">
     <Nugget id="53"/>
-  </Bubble>
-  <Bubble name="whiz kids , children as phone experts">
-    <Nugget id="28"/>
   </Bubble>
   <Bubble name=""/>
   <Trash/>
