@@ -1,7 +1,5 @@
 // An object to define utility functions and global variables on:
 $.annotationGlobVars = {};
-// either "claim" or "reasons" to set proper validations
-$.annotationGlobVars.annotationsType = null;
 // An object to define internal stuff for the plugin:
 $.annotationGlobVars.awaitingClosingSegment = false;
 // after clicking on the first segment, save its ID
@@ -93,40 +91,22 @@ function updateCurrentSelectionPanel(argumentID) {
         li.append(button);
         ul.append(li);
     });
+	//console.log($.annotationGlobVars.selectedSentences[argumentID]);
 
     // hide/show implicit claim option
-    if ("claim" === $.annotationGlobVars.annotationsType) {
-        if ($.annotationGlobVars.selectedSentences[argumentID] && Object.keys($.annotationGlobVars.selectedSentences[argumentID]).length > 0) {
-            // show annotation box in case it't hidden
-            var selectedSegmentsDiv = $("#" + argumentID + "_selectedSegments");
-            if (!selectedSegmentsDiv.is(":visible")) {
-                selectedSegmentsDiv.show(400);
-            }
-
-            $("#" + argumentID).find("div.optional-box").hide();
-            // un-check it
-            $("#" + argumentID + "_checkbox").prop("checked", false);
-        } else {
-            $("#" + argumentID).find("div.optional-box").show(400);
+    if ($.annotationGlobVars.selectedSentences[argumentID] && Object.keys($.annotationGlobVars.selectedSentences[argumentID]).length > 0) {
+        // show annotation box in case it't hidden
+        var selectedSegmentsDiv = $("#" + argumentID + "_selectedSegments");
+        if (!selectedSegmentsDiv.is(":visible")) {
+            selectedSegmentsDiv.show(400);
         }
-    }
 
-    // hide/show "no reasons" option
-    if ("reasons" === $.annotationGlobVars.annotationsType) {
-        if ($.annotationGlobVars.selectedSentences[argumentID] && Object.keys($.annotationGlobVars.selectedSentences[argumentID]).length > 0) {
-            // show annotation box in case it't hidden
-            var selectedSegmentsDiv = $("#" + argumentID + "_selectedSegments");
-            if (!selectedSegmentsDiv.is(":visible")) {
-                selectedSegmentsDiv.show(400);
-            }
-
-            $("#" + argumentID).find("div.optional-box").hide();
-            // un-check it
-            $("#" + argumentID + "_noReasons").prop("checked", false);
-        } else {
-            $("#" + argumentID).find("div.optional-box").show(400);
-        }
-    }
+        $("#" + argumentID).find("div.optional-box").hide();
+        // un-check it
+        $("#" + argumentID + "_checkbox").prop("checked", false);
+     } else {
+        $("#" + argumentID).find("div.optional-box").show(400);
+     }
 }
 
 /**
@@ -224,27 +204,18 @@ function validateSingleAnnotatedArgument(argumentID) {
     });
 
     var result = false;
-    if ("claim" === $.annotationGlobVars.annotationsType) {
-        // for known stance we need either implicit claim or annotations
-        if (value == 1 || value == 0) {
-            result = implicitClaim || hasAnnotations;
-            //$'div.argument'.('#'+argumentID+'_stance_group').disabled == false; // deactivate checkbox!
-        } else if (value == 2) { //checkbox is active
-            // for unclear stance we don't need more
-            result = ($('#'+argumentID+'_keywords').val() != '');
-
-            //result = true;
-        }
+    // for known stance we need either implicit claim or annotations
+    if (value == 1 || value == 0) {
+        result = implicitClaim || hasAnnotations;
+        //$'div.argument'.('#'+argumentID+'_stance_group').disabled == false; // deactivate checkbox!
+    } else if (value == 2) { //checkbox is active
+        // for unclear stance we don't need more
+        result = ($('#'+argumentID+'_keywords').val() != '');
     }
 
-    if ("reasons" === $.annotationGlobVars.annotationsType) {
-        console.error("Not yet implemented!");
-    }
-    
     result = result ^ hasAnnotations;
 
     //console.log("Result: " + result + " Argument " + argumentID + ": stanceValue: " + stanceValue + ", implicitClaim: " + implicitClaim + ", hasAnnotations: " + hasAnnotations);
-
     return result;
 }
 
@@ -323,9 +294,6 @@ function showOrHideSegmentAnnotations(radioButton) {
 
 
 $(document).ready(function () {
-    // set-up the global variable - which type of annotations are we doing? ("claim"/"reasons")
-    $.annotationGlobVars.annotationsType = $("#mturk_form").data("type");
-
     var $sentence = $(".sentence:not(.segment-not-allowed)");
 
     // generally we should show some action is available by showing underline on mouse enter
@@ -346,7 +314,7 @@ $(document).ready(function () {
             //     "openingArgumentDivId: " + $.annotationGlobVars.openingArgumentDivId);
 
             // now find all paragraphs between this hovered segment
-            var parentDivId = $(this).parent().closest('div').attr("id");
+            var parentDivId = $(this).parent().closest('div.argument').attr("id");
 
             if (parentDivId == $.annotationGlobVars.openingArgumentDivId) {
                 if (sentenceIsEnabledForAnnotation($.annotationGlobVars.openingArgumentDivId, openingSegmentPosition, currentSegmentPosition)) {
@@ -366,7 +334,7 @@ $(document).ready(function () {
 
     $sentence.click(function () {
         // get ID of the current argument
-        var argumentId = $(this).parent().closest('div').attr("id");
+        var argumentId = $(this).parent().closest('div.argument').attr("id");
 
         var currentSegmentPosition = $(this).data("position");
         var clickedID = $(this).attr("id");
