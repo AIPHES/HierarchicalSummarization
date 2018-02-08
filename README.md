@@ -38,7 +38,9 @@ If you find the corpus and/or annotation tool useful, please cite the following 
 Contact person: Christopher Tauchmann, tauchmann@ukp.informatik.tu-darmstadt.de
 
 https://www.ukp.tu-darmstadt.de/
+
 https://www.aiphes.tu-darmstadt.de/
+
 https://www.tu-darmstadt.de/
 
 
