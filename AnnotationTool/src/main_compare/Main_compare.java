@@ -14,6 +14,24 @@ import data.NuggetData;
 import data.NuggetList;
 import data.NuggetStructure;
 
+/*
+ * AIPHES Hierarchy Annotation Tool
+    Copyright (C) 2018  Thomas Arnold
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
 /**
  * @author Thomas Arnold (arnold@aiphes.tu-darmstadt.de)
  * 29.09.2017
@@ -44,9 +62,9 @@ public class Main_compare {
 	
 	// Do you want to create the joint trees that only contain direct links that at least 2 annotators aggreed with
 	// (We did not use these in our current evaluation)
-	protected static boolean bCreateJointTree = false;
+	protected static boolean bCreateJointTree = true;
 	// Do you want to compute gold standard trees
-	protected static boolean bCreateGoldTree = false;
+	protected static boolean bCreateGoldTree = true;
 	// Do you want to output similarity and other statistics (size, depth, width...) of all hierarchies? 
 	protected static boolean bOutputStats = true;
 	
@@ -81,6 +99,7 @@ public class Main_compare {
 				"1001",
 				"1002",
 				"1006",
+				"1016",
 				"1017",
 				"1029",
 				"1030",
@@ -93,7 +112,8 @@ public class Main_compare {
 				"D:/Mega/DIP_Tool/Finished_trees/ML/Topic_1001_ADHD_DIPTool_ML.txt.xml",
 				"D:/Mega/DIP_Tool/Finished_trees/ML/Topic_1002_cellphone_for_12_years_old_kid_DIPTool_ML.txt.xml",
 				"D:/Mega/DIP_Tool/Finished_trees/ML/Topic_1006_discipline_issues_in_elementary_school_DIPTool_ML.txt.xml",
-				"D:/Mega/DIP_Tool/Finished_trees/ML/",
+				"D:/Mega/DIP_Tool/Finished_trees/ML/Topic_1016_sleep_problems_in_preschool_children_DIPTool_ML.txt.xml",
+				"D:/Mega/DIP_Tool/Finished_trees/ML/Topic_1017_student_loans_DIPTool_ML.txt.xml",
 				"D:/Mega/DIP_Tool/Finished_trees/ML/Topic_1029_parents_of_kids_doing_drugs_DIPTool_ML.txt.xml",
 				"D:/Mega/DIP_Tool/Finished_trees/ML/Topic_1030_school_punishment_policy_DIPTool_ML.txt.xml",
 				"D:/Mega/DIP_Tool/Finished_trees/ML/Topic_1035_kids_with_depression_DIPTool_ML.txt.xml",
@@ -102,21 +122,23 @@ public class Main_compare {
 			};
 			
 			String[] filenames_anno_2 = new String[] {
-				"D:/Mega/DIP_Tool/Finished_trees/KC/Topic_1001_alternative ADHD treatments_DIPTool.txt.xml",
-				"D:/Mega/DIP_Tool/Finished_trees/KC/Topic_1002_cellphone_for_12_years_old_kid_DIPTool.txt.xml",
-				"D:/Mega/DIP_Tool/Finished_trees/KC/Topic_1006_discipline_issues_in_elementary_school_DIPTool.txt.xml",
-				"D:/Mega/DIP_Tool/Finished_trees/KC/",
-				"D:/Mega/DIP_Tool/Finished_trees/KC/Topic_1029_parents_of_kids_doing_drugs_DIPTool.txt.xml",
-				"D:/Mega/DIP_Tool/Finished_trees/KC/Topic_1030_school_punishment_policy_DIPTool.txt.xml",
-				"D:/Mega/DIP_Tool/Finished_trees/KC/Topic_1035_kids_with_depression_DIPTool.txt.xml",
-				"D:/Mega/DIP_Tool/Finished_trees/KC/",
-				"D:/Mega/DIP_Tool/Finished_trees/KC/"
+				"D:/Mega/DIP_Tool/Finished_trees/KC/Topic_1001_alternative ADHD treatments_Anno2.txt.xml",
+				"D:/Mega/DIP_Tool/Finished_trees/KC/Topic_1002_cellphone_for_12_years_old_kid_Anno2.txt.xml",
+				"D:/Mega/DIP_Tool/Finished_trees/KC/Topic_1006_discipline_issues_in_elementary_school_Anno2.txt.xml",
+				"D:/Mega/DIP_Tool/Finished_trees/KC/Topic_1016_sleep_problems_in_preschool_children_Anno2.txt.xml",
+				"D:/Mega/DIP_Tool/Finished_trees/KC/Topic_1017_student_loans_Anno2.txt.xml",
+				"D:/Mega/DIP_Tool/Finished_trees/KC/Topic_1029_parents_of_kids_doing_drugs_Anno2.txt.xml",
+				"D:/Mega/DIP_Tool/Finished_trees/KC/Topic_1030_school_punishment_policy_Anno2.txt.xml",
+				"D:/Mega/DIP_Tool/Finished_trees/KC/Topic_1035_kids_with_depression_Anno2.txt.xml",
+				"D:/Mega/DIP_Tool/Finished_trees/KC/Topic_1042_parents_concerns_about_religious_classes_at_school_Anno2.txt.xml",
+				"D:/Mega/DIP_Tool/Finished_trees/KC/Topic_1044_parents_deal_with_children's_obesity_Anno2.txt.xml"
 			};
 			
 			String[] filenames_anno_3 = new String[] {
 				"D:/Mega/DIP_Tool/Finished_trees/JS/Topic_1001_ADHD_DIPTool_JS.txt.xml",
 				"D:/Mega/DIP_Tool/Finished_trees/JS/Topic_1002_cellphone_for_12_years_old_kid_DIPTool_JS.txt.xml",
 				"D:/Mega/DIP_Tool/Finished_trees/JS/Topic_1006_discipline_issues_in_elementary_school_DIPTool_JS.txt.xml",
+				"D:/Mega/DIP_Tool/Finished_trees/JS/Topic_1016_sleep_problems_in_preschool_children_DIPTool.txt.xml",
 				"D:/Mega/DIP_Tool/Finished_trees/JS/Topic_1017_student_loans_DIPTool_JS.txt.xml",
 				"D:/Mega/DIP_Tool/Finished_trees/JS/Topic_1029_parents_of_kids_doing_drugs_DIPTool.txt.xml",
 				"D:/Mega/DIP_Tool/Finished_trees/JS/Topic_1030_school_punishment_policy_DIPTool_JS.txt.xml",
@@ -129,6 +151,7 @@ public class Main_compare {
 				"D:/Mega/DIP_Tool/Finished_trees/JS/Topic_1001_ADHD_DIPTool_JS.txt",
 				"D:/Mega/DIP_Tool/Finished_trees/JS/Topic_1002_cellphone_for_12_years_old_kid_DIPTool_JS.txt",
 				"D:/Mega/DIP_Tool/Finished_trees/JS/Topic_1006_discipline_issues_in_elementary_school_DIPTool_JS.txt",
+				"D:/Mega/DIP_Tool/Finished_trees/JS/Topic_1016_sleep_problems_in_preschool_children_DIPTool.txt",
 				"D:/Mega/DIP_Tool/Finished_trees/JS/Topic_1017_student_loans_DIPTool_JS.txt",
 				"D:/Mega/DIP_Tool/Finished_trees/JS/Topic_1029_parents_of_kids_doing_drugs_DIPTool.txt",
 				"D:/Mega/DIP_Tool/Finished_trees/JS/Topic_1030_school_punishment_policy_DIPTool_JS.txt",
@@ -164,10 +187,12 @@ public class Main_compare {
 				if (bCreateGoldTree) {
 					file = new File(jointPath + topics[i] + "_" + sGoldTreeSuffix + ".txt.xml");
 					if (!file.exists()) {
+						System.out.println("Create gold tree " + jointPath + topics[i] + "_" + sGoldTreeSuffix + ".txt.xml");
 						Methods_GoldData.createGoldTree(dataset);
 					}
 					file = new File(jointPath + topics[i] + "_" + sGoldOptiTreeSuffix + ".txt.xml");
 					if (!file.exists()) {
+						System.out.println("Optimize gold tree " + jointPath + topics[i] + "_" + sGoldOptiTreeSuffix + ".txt.xml");
 						Methods_GoldData.optimizeGoldTree(dataset);
 					}
 					Methods_GoldData.nameGoldBubbles(dataset, jointPath + topics[i] + "_" + sGoldOptiTreeSuffix + ".txt.xml", filenames_topic, filenames_nuggets[i]);
@@ -175,15 +200,15 @@ public class Main_compare {
 				
 				if (bOutputStats) {
 					writerStats = new FileWriter(jointPath + topics[i] + "_" + outputPathStats);
-					joint = new File(jointPath + topics[i] + "_" + sJointTreeSuffix + ".txt.xml");
-					gold = new File(jointPath + topics[i] + "_" + sGoldTreeSuffix + ".txt.xml");
+					//joint = new File(jointPath + topics[i] + "_" + sJointTreeSuffix + ".txt.xml");
+					//gold = new File(jointPath + topics[i] + "_" + sGoldTreeSuffix + ".txt.xml");
 					gold_opti = new File(jointPath + topics[i] + "_" + sGoldOptiTreeSuffix + ".txt.xml");
 					
 					int index = 3;
 					int max = 3;
 					
-					if (joint.exists()) max++;
-					if (gold.exists()) max++;
+					//if (joint.exists()) max++;
+					//if (gold.exists()) max++;
 					if (gold_opti.exists()) max++;
 					
 					filenames_topic = new String[max];
@@ -196,17 +221,17 @@ public class Main_compare {
 					names[1] = annotators[1];
 					names[2] = annotators[2];
 					
-					if (joint.exists()) {
-						filenames_topic[index] = jointPath + topics[i] + "_" + sJointTreeSuffix + ".txt.xml";
-						names[index] = "Joint tupels";
-						index++;
-					}
-					
-					if (gold.exists()) {
-						filenames_topic[index] = jointPath + topics[i] + "_" + sGoldTreeSuffix + ".txt.xml";
-						names[index] = "Gold";
-						index++;
-					}
+//					if (joint.exists()) {
+//						filenames_topic[index] = jointPath + topics[i] + "_" + sJointTreeSuffix + ".txt.xml";
+//						names[index] = "Joint tupels";
+//						index++;
+//					}
+//					
+//					if (gold.exists()) {
+//						filenames_topic[index] = jointPath + topics[i] + "_" + sGoldTreeSuffix + ".txt.xml";
+//						names[index] = "Gold";
+//						index++;
+//					}
 					
 					if (gold_opti.exists()) {
 						filenames_topic[index] = jointPath + topics[i] + "_" + sGoldOptiTreeSuffix + ".txt.xml";
