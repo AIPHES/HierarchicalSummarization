@@ -1,5 +1,5 @@
 # HierarchicalSummarization 
-The following repository contains the corpus that was created for the publication as well as the annotation tool that was developed for that purpose and an example Amazon Mechanical Turk HIT .
+The following repository contains the corpus that was created for the publication 'Beyond Generic Summarization: A Multi-faceted Hierarchical Summarization Corpus of Large Heterogeneous Data' as well as the annotation tool that was developed for that purpose and an example Amazon Mechanical Turk HIT .
 
 The Corpus:
 
