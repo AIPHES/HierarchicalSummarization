@@ -51,5 +51,7 @@ Don't hesitate to send us an e-mail or report an issue, if something is broken (
 
 ** License details:
 The annotations are licensed under CC-BY 4.0.
+
 The original content from ClueWeb12 keeps its original license.
+
 The annotation tool is licensed under GNU GENERAL PUBLIC LICENSE.
