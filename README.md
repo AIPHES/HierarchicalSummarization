@@ -49,7 +49,7 @@ Don't hesitate to send us an e-mail or report an issue, if something is broken (
 
 # Licenses
 
-** License details:
+License details:
 
 The annotations are licensed under CC-BY 4.0.
 
