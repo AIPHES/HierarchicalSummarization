@@ -1,20 +1,20 @@
-# HierarchicalSummarization 
+# Hierarchical Summarization 
 The following repository contains the corpus that was created for the publication 'Beyond Generic Summarization: A Multi-faceted Hierarchical Summarization Corpus of Large Heterogeneous Data' as well as the annotation tool that was developed for that purpose and an example Amazon Mechanical Turk HIT .
 
-The Corpus:
+### The Corpus
 
 Included in the `Corpus` folder is the following:
 Inlcuded in the `SourceDocuments` folder are the .xml files of all source topics and a .txt file with the topic names.
 Included in the `AMTAllNuggets` folder is a tab-delimited csv file with all annotations from Amazon Mechanical Turk in the format worker [tab] annotation. The turker IDs have been hashed in order to anonymize them.
 Included in the `Trees` folder are the inout documents for the tree annotation, the trees from three annotators as well as the gold standard trees created out of these trees. 
 
-The Annotation tool:
+### The Annotation tool
 
-Included in the `AnnotationTool` folder is the Annotation tool as java archive as well as the source code and documentation of the tool.
+Included in the `AnnotationTool` folder is the Annotation tool as a Java archive as well as the source code and documentation of the tool.
 
-The HIT-Template:
+### The HIT-Template
 
-Included in the `HIT-Template` folder is an example HIT along with the javascript and .css stylefile.
+Included in the `HIT-Template` folder is an example HIT along with the javascript and stylesheet.
 
 
 # Citation
@@ -37,22 +37,14 @@ If you find the corpus and/or annotation tool useful, please cite the following 
 
 Contact person: Christopher Tauchmann, tauchmann@ukp.informatik.tu-darmstadt.de
 
-https://www.ukp.tu-darmstadt.de/
-
 https://www.aiphes.tu-darmstadt.de/
-
-https://www.tu-darmstadt.de/
 
 
 Don't hesitate to send us an e-mail or report an issue, if something is broken (and it shouldn't be) or if you have further questions.
 
 
-# Licenses
+# License
 
-License details:
-
-The annotations are licensed under CC-BY 4.0.
-
-The original content from ClueWeb12 keeps its original license.
-
-The annotation tool is licensed under GNU GENERAL PUBLIC LICENSE.
+* The annotations are licensed under the [Creative Commons CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+* The original content from ClueWeb12 keeps its [original license](https://public.ukp.informatik.tu-darmstadt.de/dip2016corpus/).
+* The annotation tool is licensed under the [GNU GNU General Public License v3.0](http://www.gnu.org/licenses/gpl-3.0.html).
