@@ -18,7 +18,7 @@ Included in the `HIT-Template` folder is an example HIT along with the javascrip
 
 
 # Citation
-If you find the corpus and/or annotation tool useful, please cite the following paper: Beyond Generic Summarization: A Multi-faceted Hierarchical Summarization Corpus of Large Heterogeneous Data (to appear)
+If you find the corpus and/or annotation tool useful, please cite the following paper: [Beyond Generic Summarization: A Multi-faceted Hierarchical Summarization Corpus of Large Heterogeneous Data](http://www.lrec-conf.org/proceedings/lrec2018/pdf/252.pdf)
 
 ```
 @inproceedings{Tauchmann.et.al.2018.LREC,
@@ -27,8 +27,9 @@ If you find the corpus and/or annotation tool useful, please cite the following 
 	booktitle = {Proceedings of the 11th International Conference on Language Resources and Evaluation (LREC)},
 	month = {May},
 	year = {2018},
-	note = {(to appear)},
-	location = {Miyazaki, Japan}
+	pages = {3184--3191},
+	location = {Miyazaki, Japan},
+	url = {http://www.lrec-conf.org/proceedings/lrec2018/pdf/252.pdf}
 }
 ``` 
 
